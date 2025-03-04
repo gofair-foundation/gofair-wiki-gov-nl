@@ -1,0 +1,12 @@
+---
+title: "Klimaatadaptatie van de gebouwde omgeving"
+subtitle: "Een project van I&W in samenwerking met Stichting Climate Adaptation Services, Stichting W/E adviseurs, Hogeschool Amsterdam, Stichting GO FAIR en Purple Polar Bear"
+author:
+  - name: 
+    email: 
+    affiliation: 
+format: html
+editor: visual
+---
+
+## Hitte binnenshuis

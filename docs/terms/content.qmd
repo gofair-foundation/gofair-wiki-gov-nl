@@ -1,0 +1,18 @@
+---
+title: "Begrippen"
+subtitle: "Een Nederlandstalig begrippenkader voor de FAIR Guiding Principles"
+---
+
+## Begrippenkader
+
+
+### FAIR Guiding Principles
+
+De FAIR Guiding Priniples kennen Engelstalig begrippenkaders in de vorm van ontologien: [FAIR Vocabulary](https://peta-pico.github.io/FAIR-nanopubs/principles/index-en.html#https://w3id.org/fair/principles/terms/I2) en [FAIR Implementation Profile Ontology](https://peta-pico.github.io/FAIR-nanopubs/fip/index-en.html). Deze begrippenkaders zijn primair gericht op het domein van research datamanagement. 
+
+
+### Nederlandse overheid
+
+Het is daarom nuttig daarnaast ook een Nederlandstalig begrippenkader te ontwikkelen gericht op toepassingen binnen het domein van de Nederlandse overheid buiten het overlappende domein van research datamanagement. Daarbij kan dan gebruik worden gemaakt van de Standaard voor Beschrijvingen van Begrippen [NL-SBB](https://docs.geostandaarden.nl/nl-sbb/vv-st-nl-sbb-20240416/) (Geonovum) en van de [Begrippenlader editor](https://editor.stelselcatalogus.nl/). Daarnaast is het goed om zoveel mogelijk te verwijzen naar al bestaande begrippenkaders door [ArchiXL](https://www.archixl.nl/nl/) op [BegripppenXL](https://www.begrippenxl.nl/nl/) samengebracht.
+
+
