@@ -1,0 +1,85 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "GO FAIR_GOV_NL Wiki"
+  image: docs/img/GO FAIR_GOV_NL.png
+  site-url: "https://nl.gofair.foundation/"
+  repo-url: "https://github.com/gofair-foundation/gofair-wiki-gov-nl"
+  repo-actions: [edit, issue]
+  page-navigation: true
+  
+#  bread-crumbs: true
+#
+#
+  
+  page-footer:
+        left:
+          - text: Licentie
+          - href: license.qmd
+  
+#  announcement: 
+#    content: ""
+#    position: below-navbar
+#
+
+  navbar:
+    background: light
+    title: false
+    search: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Over"
+        href: about.qmd
+#     - text: "Gids"
+#       href: docs/guide/index.qmd
+      - text: "Nieuws"
+        href: docs/news/index.qmd
+      - text: "Bijdragen"
+        href: contributing.qmd
+
+    tools:
+      - icon: github
+        href: https://github.com/norbertvandijk/gofair-wiki-gov-nl_dev
+        text: GitHub
+      - icon: rss
+        href: https://nl.gofair.foundation/docs/news/index.xml
+        text: RSS
+  
+  sidebar:
+    contents:
+      - text: "Introductie"
+        href: docs/introduction/content.qmd
+      - text: "Principes"
+        href: docs/principles/content.qmd
+      - text: "Begrippen"
+        href: docs/terms/content.qmd
+      - text: "Use cases"
+        href: docs/usecases/index.qmd
+      - text: "Literatuur"
+        href: docs/literature/content.qmd 
+
+execute:
+  freeze: auto
+  
+# bibliography: references.bib
+#
+
+    
+format: 
+  html:
+    theme: cosmo
+#   css: styles.css
+    toc: true
+    toc-depth: 4
+    toc-expand: 4
+    editor: source
+
+#include-after-body:
+#  - text: |
+#      <script>
+#        const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
+#        const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))
+#      </script>
