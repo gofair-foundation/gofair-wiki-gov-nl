@@ -37,7 +37,7 @@ website:
 #       href: docs/guide/index.qmd
       - text: "Nieuws"
         href: docs/news/index.qmd
-      - text: "Bijdragen"
+      - text: "Handreiking"
         href: contributing.qmd
 
     tools:
