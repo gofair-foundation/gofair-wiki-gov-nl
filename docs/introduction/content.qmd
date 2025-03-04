@@ -1,4 +1,0 @@
----
-title: "Introductie"
-subtitle: "Introductie van de principes voor FAIR data"
----

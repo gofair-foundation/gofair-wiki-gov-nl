@@ -1,0 +1,179 @@
+[
+  {
+    "objectID": "docs/news/posts/2025-02-28-toolbox-verantwoord-datagebruik/index.html",
+    "href": "docs/news/posts/2025-02-28-toolbox-verantwoord-datagebruik/index.html",
+    "title": "Toolbox verantwoord data gebruik",
+    "section": "",
+    "text": "De Toolbox verantwoord data gebruik van het programma Realisatie Interbestuurlijke Data Strategie verwijst naar de FAIR Guiding Principles en naar het 3-Point FAIRification Framework van de GO FAIR Foundation. Ik vraag me af of dit framework binnen het domein van datamanagement van de Nederlandse overheid maar buiten het overlappende domein van research datamanagemement met de huidige invulling van het framework bruikbaar is. Wellicht is ook hier een wat andere interpretatie en implementatie nodig."
+  },
+  {
+    "objectID": "docs/news/posts/2025-02-28-toolbox-verantwoord-datagebruik/index.html#point-fairification-framework",
+    "href": "docs/news/posts/2025-02-28-toolbox-verantwoord-datagebruik/index.html#point-fairification-framework",
+    "title": "Toolbox verantwoord data gebruik",
+    "section": "",
+    "text": "De Toolbox verantwoord data gebruik van het programma Realisatie Interbestuurlijke Data Strategie verwijst naar de FAIR Guiding Principles en naar het 3-Point FAIRification Framework van de GO FAIR Foundation. Ik vraag me af of dit framework binnen het domein van datamanagement van de Nederlandse overheid maar buiten het overlappende domein van research datamanagemement met de huidige invulling van het framework bruikbaar is. Wellicht is ook hier een wat andere interpretatie en implementatie nodig."
+  },
+  {
+    "objectID": "docs/news/index.html",
+    "href": "docs/news/index.html",
+    "title": "Nieuws",
+    "section": "",
+    "text": "FAIR Guiding Principles in Algoritmekader\n\n\nNederlandse vertaling van de FAIR Guiding Principles in het Algoritmekader, \n\n\n\n\n\n\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\n\n\nFederatief Data Stelsel\n\n\nHet data ecosyteem van de Nederlandse overheid\n\n\n\n\n\n\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\n\n\nWooFAIR\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOnderzoeksrapport Federatieve Toegangsverlening\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKansen voor promovendi en studenten\n\n\n\n\n\n\n\n\n\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\n\n\nToolbox verantwoord data gebruik\n\n\nProgramma Realisatie Interbestuurlijke Data Strategie\n\n\n\n\n\n\n\n\nNorbert van Dijk\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "docs/usecases/index.html",
+    "href": "docs/usecases/index.html",
+    "title": "Use cases",
+    "section": "",
+    "text": "Klimaatadaptatie van de gebouwde omgeving\n\n\nEen project van I&W in samenwerking met Stichting Climate Adaptation Services, Stichting W/E adviseurs, Hogeschool Amsterdam, Stichting GO FAIR en Purple Polar Bear\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSamenwerken in de ondergrond\n\n\nEen project van I&W in samenwerking met de Stichting GO FAIR en Purple Polar Bear\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWooFAIR: Making Open Government Data FAIR\n\n\nEen project van de Universiteit van Amsterdam binnen het NWO onderzoeksprogramma Open Science Fund\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Home",
+      "Use cases"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Over deze website",
+    "section": "",
+    "text": "De Stichting GO FAIR ontwikkelt een Nederlands applicatieprofiel van de interpretatie en implementatie van de FAIR Data Principles door en voor de Nederlandse overheid. Dit doen we samen met een groeiende community binnen de Nederlandse overheid. Deze community en dit initiatief hebben voorlopig als werktitel GO FAIR_GOV_NL. We hanteren een open source aanpak op Github. In deze repository ontwikkelen wij de content voor dit Nederlands applicatieprofiel van de interpretatie en implementatie van de FAIR Data Principles. Dit aangevuld met een blog met relevante nieuwsberichten uit de community en achtergronden waaronder informatie over succesvolle use cases van de implementatie van de FAIR Data Principles binnen de Nederlandse overheid.\nDe FAIR Data Principles en dit Nederlandse profiel van de interpretatie en implementatie ervan hebben als doel de herbruikbaarheid van data te vergroten. De FAIR Data Principles zijn erop gericht om data beter vindbaar, toegankelijk, interoperabel en herbruikbaar te maken voor mens en machine. FAIR data zijn niet per definitie ook data open data. Juist ook voor (privacy) gevoelige data (gesloten data) kan het heel zinvol zijn om te voldoen aan de principes voor FAIR data, om juist daarmee specifieke geautoriseerde toegang tot deze data mogelijk te kunnen maken."
+  },
+  {
+    "objectID": "about.html#hoe-kun-je-bijdragen",
+    "href": "about.html#hoe-kun-je-bijdragen",
+    "title": "Over deze website",
+    "section": "Hoe kun je bijdragen?",
+    "text": "Hoe kun je bijdragen?\nDit kan op verschillende manieren. Zie daarvoor deze handreiking met uitleg over hoe je kunt bijdragen aan GO FAIR_GOV_NL.\nDeze website wordt ontwikkeld met Quarto en wordt gehost op Github Pages."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "GO FAIR_GOV_NL Wiki",
+    "section": "",
+    "text": "Wiki\nEen Nederlands profiel van de interpretatie en implementatie van de FAIR Data Principles door en voor de Nederlandse overheid.\nDe FAIR Data Principles en dit Nederlandse profiel van de interpretatie en implementatie ervan hebben als doel de herbruikbaarheid van data te vergroten. De FAIR Data Principles zijn erop gericht om data beter vindbaar, toegankelijk, interoperabel en herbruikbaar te maken voor mens en machine. FAIR data zijn niet per definitie ook data open data. Juist ook voor (privacy) gevoelige data (gesloten data) kan het heel zinvol zijn om te voldoen aan de principes voor FAIR data, om juist daarmee specifieke geautoriseerde toegang tot deze data mogelijk te kunnen maken.\nDeze wiki wordt onderhouden door de Stichting GO FAIR in Leiden, samen met een groeiende community binnen de Nederlandse overheid.\n\nLaatste nieuws | Alle nieuwsberichten\n\n\n\n\n\n\n\n\n\n\nOnderzoeksrapport Federatieve Toegangsverlening\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOnderzoeksrapport Federatieve Toegangsverlening\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFederatief Data Stelsel\n\n\nHet data ecosyteem van de Nederlandse overheid\n\n\n\n\n\n\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\n\n\nToolbox verantwoord data gebruik\n\n\nProgramma Realisatie Interbestuurlijke Data Strategie\n\n\n\n\n\n\n\n\nNorbert van Dijk\n\n\n\n\n\n\nNo matching items\n\n\n\nDeze website wordt ontwikkeld met Quarto en wordt gehost op Github Pages."
+  },
+  {
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "Licentie",
+    "section": "",
+    "text": "CC BY 4.0 Legal Code"
+  },
+  {
+    "objectID": "contributing.html",
+    "href": "contributing.html",
+    "title": "Handreiking",
+    "section": "",
+    "text": "We hanteren een open source aanpak op Github. Dit waarborgt een open en transparante werkwijzen en maakt het eenvoudig om versiebeheer op GO FAIR_GOV_NL toe te passen. We werken voor de content met Markdown bestanden. Dit is een bestandsformaat voor platte tekstbestanden en wordt door veel verschillende tools ondersteund. Daarnaast maken we gebruik van Quarto om vanuit de Markdown bestanden deze website te genereren."
+  },
+  {
+    "objectID": "contributing.html#hoe-we-werken-op-github",
+    "href": "contributing.html#hoe-we-werken-op-github",
+    "title": "Handreiking",
+    "section": "",
+    "text": "We hanteren een open source aanpak op Github. Dit waarborgt een open en transparante werkwijzen en maakt het eenvoudig om versiebeheer op GO FAIR_GOV_NL toe te passen. We werken voor de content met Markdown bestanden. Dit is een bestandsformaat voor platte tekstbestanden en wordt door veel verschillende tools ondersteund. Daarnaast maken we gebruik van Quarto om vanuit de Markdown bestanden deze website te genereren."
+  },
+  {
+    "objectID": "contributing.html#stel-een-vraag",
+    "href": "contributing.html#stel-een-vraag",
+    "title": "Handreiking",
+    "section": "Stel een vraag",
+    "text": "Stel een vraag\nHeb je een vraag? Er zijn verschillende manieren waarop je een vraag kunt stellen.\n\nMaak op GitHub een issue aan\nMaak op GitHub een Issue aan.\n\nKlik op de knop “New issue”.\nSchrijf je vraag of opmerking kort op en geef daaronder een toelichting.\nKlik op de knop “Create”\nAnderen kunnen daarna eventueel nog opmerkingen toevoegen aan jouw issue.\n\n\n\nStel je vraag via mail\nJe kunt je vraag ook stellen door een mail te sturen naar ."
+  },
+  {
+    "objectID": "contributing.html#meld-een-fout",
+    "href": "contributing.html#meld-een-fout",
+    "title": "Handreiking",
+    "section": "Meld een fout",
+    "text": "Meld een fout\nHeb je een fout gevonden?\n\nMaak op GitHub een issue aan\nMaak op GitHub een Issue aan.\n\nKlik op de knop “New issue”.\nOmschrijf de fout kort en geef daaronder een toelichting.\nKlik op de knop “Create”\nAnderen kunnen daarna eventueel nog opmerkingen toevoegen aan jouw issue."
+  },
+  {
+    "objectID": "contributing.html#stel-een-wijziging-voor",
+    "href": "contributing.html#stel-een-wijziging-voor",
+    "title": "Handreiking",
+    "section": "Stel een wijziging voor",
+    "text": "Stel een wijziging voor\nHeb je een suggestie of wil je een verbetering voorstellen? Er zijn verschillende manieren waarop je een verbetering kunt voorstellen.\n\nMaak op GitHub een issue aan\nMaak op GitHub een Issue aan.\n\nKlik op de knop “New issue”.\nSchrijf je suggestie kort op en geef daaronder een toelichting.\nKlik op de knop “Create”\nAnderen kunnen daarna eventueel nog opmerkingen toevoegen aan jouw issue.\n\n\n\nMaak op GitHub een pull-request aan\nKun je niet uit de voeten met een issue bijvoorbeeld omdat je een omvangrijk wijzigingsvoorstel wilt doen? Dan kun je in een eigen GitHub account een Fork van de repository van GO FAIR_GOV_NL maken en daarvandaan een Pull Request doen."
+  },
+  {
+    "objectID": "docs/terms/content.html",
+    "href": "docs/terms/content.html",
+    "title": "Begrippen",
+    "section": "",
+    "text": "De FAIR Guiding Priniples kennen Engelstalig begrippenkaders in de vorm van ontologien: FAIR Vocabulary en FAIR Implementation Profile Ontology. Deze begrippenkaders zijn primair gericht op het domein van research datamanagement.\n\n\n\nHet is daarom nuttig daarnaast ook een Nederlandstalig begrippenkader te ontwikkelen gericht op toepassingen binnen het domein van de Nederlandse overheid buiten het overlappende domein van research datamanagement. Daarbij kan dan gebruik worden gemaakt van de Standaard voor Beschrijvingen van Begrippen NL-SBB (Geonovum) en van de Begrippenlader editor. Daarnaast is het goed om zoveel mogelijk te verwijzen naar al bestaande begrippenkaders door ArchiXL op BegripppenXL samengebracht.",
+    "crumbs": [
+      "Home",
+      "Begrippen"
+    ]
+  },
+  {
+    "objectID": "docs/terms/content.html#begrippenkader",
+    "href": "docs/terms/content.html#begrippenkader",
+    "title": "Begrippen",
+    "section": "",
+    "text": "De FAIR Guiding Priniples kennen Engelstalig begrippenkaders in de vorm van ontologien: FAIR Vocabulary en FAIR Implementation Profile Ontology. Deze begrippenkaders zijn primair gericht op het domein van research datamanagement.\n\n\n\nHet is daarom nuttig daarnaast ook een Nederlandstalig begrippenkader te ontwikkelen gericht op toepassingen binnen het domein van de Nederlandse overheid buiten het overlappende domein van research datamanagement. Daarbij kan dan gebruik worden gemaakt van de Standaard voor Beschrijvingen van Begrippen NL-SBB (Geonovum) en van de Begrippenlader editor. Daarnaast is het goed om zoveel mogelijk te verwijzen naar al bestaande begrippenkaders door ArchiXL op BegripppenXL samengebracht.",
+    "crumbs": [
+      "Home",
+      "Begrippen"
+    ]
+  },
+  {
+    "objectID": "docs/news/posts/2025-02-01-federatief data stelsel/index.html",
+    "href": "docs/news/posts/2025-02-01-federatief data stelsel/index.html",
+    "title": "Federatief Data Stelsel",
+    "section": "",
+    "text": "In een e-learning van de Stichting GO FAIR kwam ik recent het onderstaande plaatje tegen. Ik zie veel overeenkomsten met het zandloper model van Federatief Data Stelsel, niet alleen de metafoor van een zandloper maar belangrijker ook de gestelde doelen en de wijze waarop die te bereiken. Lees meer hierover op de Werkbank van het Federatief Data Stelsel.\n\n\n\nHourglass Architecture of the Data-Internet (Bron: GO FAIR Foundation)\n\n\nIk denk dat het gedachtegoed achter de FAIR Data Principes en ruim een decennium ervaring met de implementatie ervan van veel toegevoegde waarde voor het FDS kunnen zijn. De Stichting GO FAIR is daarom voornemens om in 2025 in community verband een Nederlands profiel op de FAIR Data Principes te ontwikkelen gericht op de Nederlandse overheid."
+  },
+  {
+    "objectID": "docs/news/posts/2025-02-01-federatief data stelsel/index.html#hourglass-architecture-of-the-data-internet",
+    "href": "docs/news/posts/2025-02-01-federatief data stelsel/index.html#hourglass-architecture-of-the-data-internet",
+    "title": "Federatief Data Stelsel",
+    "section": "",
+    "text": "In een e-learning van de Stichting GO FAIR kwam ik recent het onderstaande plaatje tegen. Ik zie veel overeenkomsten met het zandloper model van Federatief Data Stelsel, niet alleen de metafoor van een zandloper maar belangrijker ook de gestelde doelen en de wijze waarop die te bereiken. Lees meer hierover op de Werkbank van het Federatief Data Stelsel.\n\n\n\nHourglass Architecture of the Data-Internet (Bron: GO FAIR Foundation)\n\n\nIk denk dat het gedachtegoed achter de FAIR Data Principes en ruim een decennium ervaring met de implementatie ervan van veel toegevoegde waarde voor het FDS kunnen zijn. De Stichting GO FAIR is daarom voornemens om in 2025 in community verband een Nederlands profiel op de FAIR Data Principes te ontwikkelen gericht op de Nederlandse overheid."
+  },
+  {
+    "objectID": "docs/news/posts/2025-01-08-algoritmekader/index.html",
+    "href": "docs/news/posts/2025-01-08-algoritmekader/index.html",
+    "title": "FAIR Guiding Principles in Algoritmekader",
+    "section": "",
+    "text": "Een Nederlandse vertaling van de FAIR Guiding Principles heeft een plaats gekregen in het Algoritmekader van de Nederlandse overheid. Voor de interpretaties wordt daar vooralsnog verwezen naar de Engelstalige interpretaties van de GO FAIR Foundation."
+  },
+  {
+    "objectID": "docs/news/posts/2025-01-08-algoritmekader/index.html#algoritmekader",
+    "href": "docs/news/posts/2025-01-08-algoritmekader/index.html#algoritmekader",
+    "title": "FAIR Guiding Principles in Algoritmekader",
+    "section": "",
+    "text": "Een Nederlandse vertaling van de FAIR Guiding Principles heeft een plaats gekregen in het Algoritmekader van de Nederlandse overheid. Voor de interpretaties wordt daar vooralsnog verwezen naar de Engelstalige interpretaties van de GO FAIR Foundation."
+  },
+  {
+    "objectID": "docs/news/posts/2025-01-08-algoritmekader/index.html#fair-data-for-trusted-ai",
+    "href": "docs/news/posts/2025-01-08-algoritmekader/index.html#fair-data-for-trusted-ai",
+    "title": "FAIR Guiding Principles in Algoritmekader",
+    "section": "‘FAIR Data for Trusted AI’",
+    "text": "‘FAIR Data for Trusted AI’\nWanneer data voldoet aan de FAIR Guiding Principles dan zijn deze data niet alleen vindbaar, toegankelijk, interoperabel en herbruikbaar maar ook ‘machine actionable’. Dit betekent dat deze data gebruikt kunnen worden door en voor toepassingen van kunstmatige intelligentie. De data zijn dan ‘Fully AI Ready’. Een consequent toepassen van de FAIR Guiding Principles maakt data beter (her)bruikbaar voor kunstmatige intelligentie:\n\n‘Computability’\nFAIR data maken gebruik van formele talen voor kennisrepresentatie en vocabulaires of woordenboeken wat maakt dat kunstmatige intelligentie data niet alleen op juiste wijze leest maar ook op de juiste wijze interpreteert.\n‘Thrustworthiness’\nFAIR data bezitten een (rijke) duiding van de herkomst (context) van de data. Een vertrouwde herkomst van data draagt belangrijk bij aan vertrouwde toepassingen van kunstmaige intelligentie.\n‘Equitability’\nFAIR data bezitten expliciete voorwaarden voor hergebruik waardoor mogelijkheden voor hergebruik voor alle partijen gelijk zijn.\n\nVrij vertaald uit werk van [dr. Erik Schultes](https://orcid.org/0000-0001-8888-635X), FAIR Implementation Lead, GO FAIR Foundation"
+  },
+  {
+    "objectID": "docs/news/posts/2025-02-28-kansen-voor-promovendi/index.html",
+    "href": "docs/news/posts/2025-02-28-kansen-voor-promovendi/index.html",
+    "title": "Kansen voor promovendi en studenten",
+    "section": "",
+    "text": "De vereniging Leiden Institute for FAIR and Equitable Science & Innovation (LIFES) is een publiek-private samenwerking, die zich richt op innovatief hergebruik van gegevens binnen en buiten wetenschappelijk onderzoek . Dit doet LIFES door het bijeenbrengen van daarvoor relevante expertise en het aanjagen van de ontwikkeling van een ecosysteem van organisaties en technologie dat dit mogelijk maakt. Speerpunt is de inzet van ‘federated learning’ op privacygevoelige gegevens. Het LIFES netwerk omvat inmiddels enkele tientallen publieke en private organisaties binnen en buiten Nederland, waaronder LUMC, Naturalis, TNO, Roche en TU Twente.\n\n\nDe stichting GO FAIR richt zich op het ondersteunen van organisaties bij de implementatie van de FAIR Guiding Principles in research data management, maar ook in corporate en public data management. Dit doet GO FAIR door het ontwikkelen en onderhouden van best practices voor interpretatie en implementatie, het bieden van een fellows programma, het geven van trainingen en het aanjagen van de ontwikkeling van een ecosysteem van implementatie ondersteunende technologie. De stichting GO FAIR is een service provider binnen het LIFES netwerk.\n\n\n\nDe uitdagingen waaraan LIFES werkt vragen zelf ook om wetenschappelijk onderzoek. LIFES komt daarom graag in contact met (aankomend) promovendi. Het LIFES netwerk biedt volop mogelijkheden voor begeleiding en het vergroten van je netwerk. Een fellowship bij de GO FAIR Foundation kan hiervan deel uitmaken. Onderzoeksthema’s kunnen bijvoorbeeld zijn: implementatie van federated learning, implementatie van de FAIR guiding principles binnen de Nederlandse overheid en de alignment of integratie van de FAIR guiding principles met andere gangbare benaderingen voor datamanagement en data-architectuur bijvoorbeeld de Data Mesh data architectuur en de Data-as-a-Product benadering van datamanagement.\n\n\n\nOok voor universitaire en HBO-studenten zijn er interessante mogelijkheden voor onderzoek, scriptie of stage binnen bovengenoemde thema’s.\n\n\n\nStuur een mail naar: info@gofair.foundation"
+  },
+  {
+    "objectID": "docs/news/posts/2025-02-28-kansen-voor-promovendi/index.html#lifes",
+    "href": "docs/news/posts/2025-02-28-kansen-voor-promovendi/index.html#lifes",
+    "title": "Kansen voor promovendi en studenten",
+    "section": "",
+    "text": "De vereniging Leiden Institute for FAIR and Equitable Science & Innovation (LIFES) is een publiek-private samenwerking, die zich richt op innovatief hergebruik van gegevens binnen en buiten wetenschappelijk onderzoek . Dit doet LIFES door het bijeenbrengen van daarvoor relevante expertise en het aanjagen van de ontwikkeling van een ecosysteem van organisaties en technologie dat dit mogelijk maakt. Speerpunt is de inzet van ‘federated learning’ op privacygevoelige gegevens. Het LIFES netwerk omvat inmiddels enkele tientallen publieke en private organisaties binnen en buiten Nederland, waaronder LUMC, Naturalis, TNO, Roche en TU Twente.\n\n\nDe stichting GO FAIR richt zich op het ondersteunen van organisaties bij de implementatie van de FAIR Guiding Principles in research data management, maar ook in corporate en public data management. Dit doet GO FAIR door het ontwikkelen en onderhouden van best practices voor interpretatie en implementatie, het bieden van een fellows programma, het geven van trainingen en het aanjagen van de ontwikkeling van een ecosysteem van implementatie ondersteunende technologie. De stichting GO FAIR is een service provider binnen het LIFES netwerk.\n\n\n\nDe uitdagingen waaraan LIFES werkt vragen zelf ook om wetenschappelijk onderzoek. LIFES komt daarom graag in contact met (aankomend) promovendi. Het LIFES netwerk biedt volop mogelijkheden voor begeleiding en het vergroten van je netwerk. Een fellowship bij de GO FAIR Foundation kan hiervan deel uitmaken. Onderzoeksthema’s kunnen bijvoorbeeld zijn: implementatie van federated learning, implementatie van de FAIR guiding principles binnen de Nederlandse overheid en de alignment of integratie van de FAIR guiding principles met andere gangbare benaderingen voor datamanagement en data-architectuur bijvoorbeeld de Data Mesh data architectuur en de Data-as-a-Product benadering van datamanagement.\n\n\n\nOok voor universitaire en HBO-studenten zijn er interessante mogelijkheden voor onderzoek, scriptie of stage binnen bovengenoemde thema’s.\n\n\n\nStuur een mail naar: info@gofair.foundation"
+  },
+  {
+    "objectID": "docs/principles/content.html",
+    "href": "docs/principles/content.html",
+    "title": "FAIR Guiding Principles",
+    "section": "",
+    "text": "Vindbaarheid\nOnder vindbaarheid wordt hier verstaan de mate waarin data en metadata eenvoudig gevonden kunnen worden door mensen en machines.\n\n\nF1\nPrincipe\nAan (meta)data worden een wereldwijd unieke en permanente identificatiecode toegevoegd\nInterpretatie\nDe interpretatie van dit principe door en voor de Nederlandse overheid\nImplementatie\nEen beschrijving van conceptuele bouwstenen of Architecture Building Block(s) volgens TOGAF die dit principe implementeren.\nRealisatie\nEen beschrijving van concrete bouwstenen of Solution Building Block(s) volgens TOGAF, die de genoemde Architecture Building Block(s) realiseren.\nSURF DOI\n\n\n\nF2\nPrincipe\nData worden beschreven met rijke metadata\nInterpretatie\nDe interpretatie van dit principe door en voor de Nederlandse overheid\nImplementatie\nEen beschrijving van conceptuele bouwstenen of Architecture Building Block(s) volgens TOGAF die dit principe implementeren.\nRealisatie\nEen beschrijving van concrete bouwstenen of Solution Building Block(s) volgens TOGAF, die de genoemde Architecture Building Block(s) realiseren.\n\n\n\nF3\nPrincipe\nMetadata bevatten duidelijk en expliciet de identificatie van de data die ze beschrijven\nInterpretatie\nDe interpretatie van dit principe door en voor de Nederlandse overheid\nImplementatie\nEen beschrijving van conceptuele bouwstenen of Architecture Building Block(s) volgens TOGAF die dit principe implementeren.\nRealisatie\nEen beschrijving van concrete bouwstenen of Solution Building Block(s) volgens TOGAF, die de genoemde Architecture Building Block(s) realiseren.\n\n\n\nF4\nPrincipe\n(Meta)data worden geregistreerd of geïndexeerd in een doorzoekbare bron\nInterpretatie\nDe interpretatie van dit principe door en voor de Nederlandse overheid\nImplementatie\nEen beschrijving van conceptuele bouwstenen of Architecture Building Block(s) volgens TOGAF die dit principe implementeren.\nRealisatie\nEen beschrijving van concrete bouwstenen of Solution Building Block(s) volgens TOGAF, die de genoemde Architecture Building Block(s) realiseren.\n\n\n\n\nToegankelijkheid\n\n\nA1\nPrincipe\n(Meta)data zijn opvraagbaar op basis van hun identificatiecode met behulp van een gestandaardiseerd communicatieprotocol\nInterpretatie\nDe interpretatie van dit principe door en voor de Nederlandse overheid\nImplementatie\nEen beschrijving van conceptuele bouwstenen of Architecture Building Block(s) volgens TOGAF die dit principe implementeren.\nRealisatie\nEen beschrijving van concrete bouwstenen of Solution Building Block(s) volgens TOGAF, die de genoemde Architecture Building Block(s) realiseren.\n\n\n\nA1.1\nPrincipe\nHet protocol is open, vrij en universeel implementeerbaar\nInterpretatie\nDe interpretatie van dit principe door en voor de Nederlandse overheid\nImplementatie\nEen beschrijving van conceptuele bouwstenen of Architecture Building Block(s) volgens TOGAF die dit principe implementeren.\nRealisatie\nEen beschrijving van concrete bouwstenen of Solution Building Block(s) volgens TOGAF, die de genoemde Architecture Building Block(s) realiseren.\n\n\n\nA1.2\nPrincipe\nHet protocol maakt waar nodig een authenticatie- en autorisatieprocedure mogelijk\nInterpretatie\nDe interpretatie van dit principe door en voor de Nederlandse overheid\nImplementatie\nEen beschrijving van conceptuele bouwstenen of Architecture Building Block(s) volgens TOGAF die dit principe implementeren.\nRealisatie\nEen beschrijving van concrete bouwstenen of Solution Building Block(s) volgens TOGAF, die de genoemde Architecture Building Block(s) realiseren.\n\n\n\nA2\nPrincipe\nMetadata zijn toegankelijk, ook als de data niet meer beschikbaar zijn\nInterpretatie\nDe interpretatie van dit principe door en voor de Nederlandse overheid\nImplementatie\nEen beschrijving van conceptuele bouwstenen of Architecture Building Block(s) volgens TOGAF die dit principe implementeren.\nRealisatie\nEen beschrijving van concrete bouwstenen of Solution Building Block(s) volgens TOGAF, die de genoemde Architecture Building Block(s) realiseren.\n\n\n\n\nInteroperabiliteit\n\n\nI1\nPrincipe\n(Meta)data gebruiken een formele, toegankelijke, gedeelde en breed toepasbare taal voor kennisrepresentatie\nInterpretatie\nDe interpretatie van dit principe door en voor de Nederlandse overheid\nImplementatie\nEen beschrijving van conceptuele bouwstenen of Architecture Building Block(s) volgens TOGAF die dit principe implementeren.\nRealisatie\nEen beschrijving van concrete bouwstenen of Solution Building Block(s) volgens TOGAF, die de genoemde Architecture Building Block(s) realiseren.\n\n\n\nI2\nPrincipe\n(Meta)data gebruiken gegevenswoordenboeken of vocabulaires die FAIR-principes volgen\nInterpretatie\nDe interpretatie van dit principe door en voor de Nederlandse overheid\nImplementatie\nEen beschrijving van conceptuele bouwstenen of Architecture Building Block(s) volgens TOGAF die dit principe implementeren.\nRealisatie\nEen beschrijving van concrete bouwstenen of Solution Building Block(s) volgens TOGAF, die de genoemde Architecture Building Block(s) realiseren.\n\n\n\nI3\nPrincipe\n(Meta)data bevatten gekwalificeerde verwijzingen naar andere (meta)data\nInterpretatie\nDe interpretatie van dit principe door en voor de Nederlandse overheid\nImplementatie\nEen beschrijving van conceptuele bouwstenen of Architecture Building Block(s) volgens TOGAF die dit principe implementeren.\nRealisatie\nEen beschrijving van concrete bouwstenen of Solution Building Block(s) volgens TOGAF, die de genoemde Architecture Building Block(s) realiseren.\n\n\n\n\nHerbruikbaarheid\n\n\nR1\nPrincipe\n(Meta)data worden rijkelijk beschreven met een veelheid aan nauwkeurige en relevante attributen\nInterpretatie\nDe interpretatie van dit principe door en voor de Nederlandse overheid\nImplementatie\nEen beschrijving van conceptuele bouwstenen of Architecture Building Block(s) volgens TOGAF die dit principe implementeren.\nRealisatie\nEen beschrijving van concrete bouwstenen of Solution Building Block(s) volgens TOGAF, die de genoemde Architecture Building Block(s) realiseren.\n\n\n\nR1.1\nPrincipe\n(Meta)data worden vrijgegeven met een duidelijke en toegankelijke licentie voor datagebruik\nInterpretatie\nDe interpretatie van dit principe door en voor de Nederlandse overheid\nImplementatie\nEen beschrijving van conceptuele bouwstenen of Architecture Building Block(s) volgens TOGAF die dit principe implementeren.\nRealisatie\nEen beschrijving van concrete bouwstenen of Solution Building Block(s) volgens TOGAF, die de genoemde Architecture Building Block(s) realiseren.\n\n\n\nR1.2\nPrincipe\n(Meta)data worden geassocieerd met gedetailleerde herkomst\nInterpretatie\nDe interpretatie van dit principe door en voor de Nederlandse overheid\nImplementatie\nEen beschrijving van conceptuele bouwstenen of Architecture Building Block(s) volgens TOGAF die dit principe implementeren.\nRealisatie\nEen beschrijving van concrete bouwstenen of Solution Building Block(s) volgens TOGAF, die de genoemde Architecture Building Block(s) realiseren.\n\n\n\nR1.3\nPrincipe\n(Meta)data voldoen aan domein-relevante normen\nInterpretatie\nDe interpretatie van dit principe door en voor de Nederlandse overheid\nImplementatie\nEen beschrijving van conceptuele bouwstenen of Architecture Building Block(s) volgens TOGAF die dit principe implementeren.\nRealisatie\nEen beschrijving van concrete bouwstenen of Solution Building Block(s) volgens TOGAF, die de genoemde Architecture Building Block(s) realiseren.\n\n\n\n\nBronnen\n“FAIR.” GO FAIR Foundation, https://www.gofair.foundation/interpretation. Accessed 9 Jan. 2025.\nJacobsen, Annika, et al. “FAIR Principles: Interpretations and Implementation Considerations.” Data Intelligence, vol. 2, no. 1–2, 2020, pp. 10–29, https://doi.org/10.1162/dint_r_00024.\nResearch Data Alliance FAIR Data Maturity Model Working Group. FAIR Data Maturity Model: Specification and Guidelines. 2020, https://doi.org/10.15497/RDA00050.\nFAIR Vocabulary. https://peta-pico.github.io/FAIR-nanopubs/principles/index-en.html#https://w3id.org/fair/principles/terms/F. Accessed 9 Jan. 2025.\nTOGAF",
+    "crumbs": [
+      "Home",
+      "Principes"
+    ]
+  }
+]

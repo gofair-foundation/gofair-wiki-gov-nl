@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>GO FAIR_GOV_NL Wiki</title>
+<link>https://nl.gofair.foundation/docs/usecases/</link>
+<atom:link href="https://nl.gofair.foundation/docs/usecases/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<image>
+<url>https://nl.gofair.foundation/docs/img/GO FAIR_GOV_NL.png</url>
+<title>GO FAIR_GOV_NL Wiki</title>
+<link>https://nl.gofair.foundation/docs/usecases/</link>
+<height>39</height>
+<width>144</width>
+</image>
+<generator>quarto-1.6.42</generator>
+<lastBuildDate>Tue, 04 Mar 2025 08:56:49 GMT</lastBuildDate>
+<item>
+  <title>Klimaatadaptatie van de gebouwde omgeving</title>
+  <link>https://nl.gofair.foundation/docs/usecases/posts/klimaatadaptatie-gebouwde-omgeving/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="hitte-binnenshuis" class="level2">
+
+
+
+</section>
+
+ ]]></description>
+  <guid>https://nl.gofair.foundation/docs/usecases/posts/klimaatadaptatie-gebouwde-omgeving/</guid>
+  <pubDate>Tue, 04 Mar 2025 08:56:49 GMT</pubDate>
+</item>
+<item>
+  <title>Samenwerken in de ondergrond</title>
+  <link>https://nl.gofair.foundation/docs/usecases/posts/samenwerken-in-de-ondergrond/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="samenwerken-in-de-ondergrond" class="level2">
+
+
+
+</section>
+
+ ]]></description>
+  <guid>https://nl.gofair.foundation/docs/usecases/posts/samenwerken-in-de-ondergrond/</guid>
+  <pubDate>Tue, 04 Mar 2025 08:56:49 GMT</pubDate>
+</item>
+<item>
+  <title>WooFAIR: Making Open Government Data FAIR</title>
+  <link>https://nl.gofair.foundation/docs/usecases/posts/woofair/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="woofair-making-open-government-data-fair" class="level2">
+
+
+
+</section>
+
+ ]]></description>
+  <guid>https://nl.gofair.foundation/docs/usecases/posts/woofair/</guid>
+  <pubDate>Tue, 04 Mar 2025 08:56:49 GMT</pubDate>
+</item>
+</channel>
+</rss>
