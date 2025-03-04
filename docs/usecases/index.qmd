@@ -1,0 +1,12 @@
+---
+title: "Use cases"
+subtitle: "Use cases principes FAIR data in de context van de Nederlandse overheid." 
+listing:
+  sort: "date desc"
+  contents: "posts/*/index.qmd"
+  sort-ui: false
+  filter-ui: false
+  categories: true
+  feed: true
+page-layout: full
+---

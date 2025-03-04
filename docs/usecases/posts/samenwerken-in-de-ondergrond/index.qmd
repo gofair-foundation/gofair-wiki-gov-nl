@@ -1,0 +1,12 @@
+---
+title: "Samenwerken in de ondergrond"
+subtitle: "Een project van I&W in samenwerking met de Stichting GO FAIR en Purple Polar Bear"
+author:
+  - name: 
+    email: 
+    affiliation: 
+format: html
+editor: visual
+---
+
+## Samenwerken in de ondergrond

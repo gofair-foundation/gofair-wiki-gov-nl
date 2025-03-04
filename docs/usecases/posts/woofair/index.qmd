@@ -1,0 +1,12 @@
+---
+title: "WooFAIR: Making Open Government Data FAIR"
+subtitle: "Een project van de Universiteit van Amsterdam binnen het NWO onderzoeksprogramma Open Science Fund"
+author:
+  - name: 
+    email: 
+    affiliation: 
+format: html
+editor: visual
+---
+
+## WooFAIR: Making Open Government Data FAIR
