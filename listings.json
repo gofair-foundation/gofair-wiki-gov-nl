@@ -1,13 +1,13 @@
 [
   {
-    "listing": "/docs/news/index.html",
+    "listing": "/index.html",
     "items": [
-      "/docs/news/posts/2025-01-08-algoritmekader/index.html",
-      "/docs/news/posts/2025-02-01-federatief data stelsel/index.html",
-      "/docs/news/posts/2025-02-01-woofair/index.html",
       "/docs/news/posts/2025-02-12-onderzoeksrapport-federatieve-toegangsverlening/index.html",
-      "/docs/news/posts/2025-02-28-kansen-voor-promovendi/index.html",
-      "/docs/news/posts/2025-02-28-toolbox-verantwoord-datagebruik/index.html"
+      "/docs/news/posts/2025-02-01-federatief data stelsel/index.html",
+      "/docs/news/posts/2025-02-28-toolbox-verantwoord-datagebruik/index.html",
+      "/docs/news/posts/2025-01-08-algoritmekader/index.html",
+      "/docs/news/posts/2025-02-01-woofair/index.html",
+      "/docs/news/posts/2025-02-28-kansen-voor-promovendi/index.html"
     ]
   },
   {
@@ -19,15 +19,14 @@
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/docs/news/index.html",
     "items": [
-      "/docs/news/posts/index.html",
-      "/docs/news/posts/2025-02-12-onderzoeksrapport-federatieve-toegangsverlening/index.html",
-      "/docs/news/posts/2025-02-01-federatief data stelsel/index.html",
-      "/docs/news/posts/2025-02-28-toolbox-verantwoord-datagebruik/index.html",
       "/docs/news/posts/2025-01-08-algoritmekader/index.html",
+      "/docs/news/posts/2025-02-01-federatief data stelsel/index.html",
       "/docs/news/posts/2025-02-01-woofair/index.html",
-      "/docs/news/posts/2025-02-28-kansen-voor-promovendi/index.html"
+      "/docs/news/posts/2025-02-12-onderzoeksrapport-federatieve-toegangsverlening/index.html",
+      "/docs/news/posts/2025-02-28-kansen-voor-promovendi/index.html",
+      "/docs/news/posts/2025-02-28-toolbox-verantwoord-datagebruik/index.html"
     ]
   }
 ]

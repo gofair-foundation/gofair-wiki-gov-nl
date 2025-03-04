@@ -14,50 +14,26 @@
     "text": "De Toolbox verantwoord data gebruik van het programma Realisatie Interbestuurlijke Data Strategie verwijst naar de FAIR Guiding Principles en naar het 3-Point FAIRification Framework van de GO FAIR Foundation. Ik vraag me af of dit framework binnen het domein van datamanagement van de Nederlandse overheid maar buiten het overlappende domein van research datamanagemement met de huidige invulling van het framework bruikbaar is. Wellicht is ook hier een wat andere interpretatie en implementatie nodig."
   },
   {
-    "objectID": "docs/news/index.html",
-    "href": "docs/news/index.html",
-    "title": "Nieuws",
+    "objectID": "docs/terms/content.html",
+    "href": "docs/terms/content.html",
+    "title": "Begrippen",
     "section": "",
-    "text": "FAIR Guiding Principles in Algoritmekader\n\n\nNederlandse vertaling van de FAIR Guiding Principles in het Algoritmekader, \n\n\n\n\n\n\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\n\n\nFederatief Data Stelsel\n\n\nHet data ecosyteem van de Nederlandse overheid\n\n\n\n\n\n\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\n\n\nWooFAIR\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOnderzoeksrapport Federatieve Toegangsverlening\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKansen voor promovendi en studenten\n\n\n\n\n\n\n\n\n\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\n\n\nToolbox verantwoord data gebruik\n\n\nProgramma Realisatie Interbestuurlijke Data Strategie\n\n\n\n\n\n\n\n\nNorbert van Dijk\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "docs/usecases/index.html",
-    "href": "docs/usecases/index.html",
-    "title": "Use cases",
-    "section": "",
-    "text": "Klimaatadaptatie van de gebouwde omgeving\n\n\nEen project van I&W in samenwerking met Stichting Climate Adaptation Services, Stichting W/E adviseurs, Hogeschool Amsterdam, Stichting GO FAIR en Purple Polar Bear\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSamenwerken in de ondergrond\n\n\nEen project van I&W in samenwerking met de Stichting GO FAIR en Purple Polar Bear\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWooFAIR: Making Open Government Data FAIR\n\n\nEen project van de Universiteit van Amsterdam binnen het NWO onderzoeksprogramma Open Science Fund\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items",
+    "text": "De FAIR Guiding Priniples kennen Engelstalig begrippenkaders in de vorm van ontologien: FAIR Vocabulary en FAIR Implementation Profile Ontology. Deze begrippenkaders zijn primair gericht op het domein van research datamanagement.\n\n\n\nHet is daarom nuttig daarnaast ook een Nederlandstalig begrippenkader te ontwikkelen gericht op toepassingen binnen het domein van de Nederlandse overheid buiten het overlappende domein van research datamanagement. Daarbij kan dan gebruik worden gemaakt van de Standaard voor Beschrijvingen van Begrippen NL-SBB (Geonovum) en van de Begrippenlader editor. Daarnaast is het goed om zoveel mogelijk te verwijzen naar al bestaande begrippenkaders door ArchiXL op BegripppenXL samengebracht.",
     "crumbs": [
       "Home",
-      "Use cases"
+      "Begrippen"
     ]
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Over deze website",
+    "objectID": "docs/terms/content.html#begrippenkader",
+    "href": "docs/terms/content.html#begrippenkader",
+    "title": "Begrippen",
     "section": "",
-    "text": "De Stichting GO FAIR ontwikkelt een Nederlands applicatieprofiel van de interpretatie en implementatie van de FAIR Data Principles door en voor de Nederlandse overheid. Dit doen we samen met een groeiende community binnen de Nederlandse overheid. Deze community en dit initiatief hebben voorlopig als werktitel GO FAIR_GOV_NL. We hanteren een open source aanpak op Github. In deze repository ontwikkelen wij de content voor dit Nederlands applicatieprofiel van de interpretatie en implementatie van de FAIR Data Principles. Dit aangevuld met een blog met relevante nieuwsberichten uit de community en achtergronden waaronder informatie over succesvolle use cases van de implementatie van de FAIR Data Principles binnen de Nederlandse overheid.\nDe FAIR Data Principles en dit Nederlandse profiel van de interpretatie en implementatie ervan hebben als doel de herbruikbaarheid van data te vergroten. De FAIR Data Principles zijn erop gericht om data beter vindbaar, toegankelijk, interoperabel en herbruikbaar te maken voor mens en machine. FAIR data zijn niet per definitie ook data open data. Juist ook voor (privacy) gevoelige data (gesloten data) kan het heel zinvol zijn om te voldoen aan de principes voor FAIR data, om juist daarmee specifieke geautoriseerde toegang tot deze data mogelijk te kunnen maken."
-  },
-  {
-    "objectID": "about.html#hoe-kun-je-bijdragen",
-    "href": "about.html#hoe-kun-je-bijdragen",
-    "title": "Over deze website",
-    "section": "Hoe kun je bijdragen?",
-    "text": "Hoe kun je bijdragen?\nDit kan op verschillende manieren. Zie daarvoor deze handreiking met uitleg over hoe je kunt bijdragen aan GO FAIR_GOV_NL.\nDeze website wordt ontwikkeld met Quarto en wordt gehost op Github Pages."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "GO FAIR_GOV_NL Wiki",
-    "section": "",
-    "text": "Wiki\nEen Nederlands profiel van de interpretatie en implementatie van de FAIR Data Principles door en voor de Nederlandse overheid.\nDe FAIR Data Principles en dit Nederlandse profiel van de interpretatie en implementatie ervan hebben als doel de herbruikbaarheid van data te vergroten. De FAIR Data Principles zijn erop gericht om data beter vindbaar, toegankelijk, interoperabel en herbruikbaar te maken voor mens en machine. FAIR data zijn niet per definitie ook data open data. Juist ook voor (privacy) gevoelige data (gesloten data) kan het heel zinvol zijn om te voldoen aan de principes voor FAIR data, om juist daarmee specifieke geautoriseerde toegang tot deze data mogelijk te kunnen maken.\nDeze wiki wordt onderhouden door de Stichting GO FAIR in Leiden, samen met een groeiende community binnen de Nederlandse overheid.\n\nLaatste nieuws | Alle nieuwsberichten\n\n\n\n\n\n\n\n\n\n\nOnderzoeksrapport Federatieve Toegangsverlening\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOnderzoeksrapport Federatieve Toegangsverlening\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFederatief Data Stelsel\n\n\nHet data ecosyteem van de Nederlandse overheid\n\n\n\n\n\n\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\n\n\nToolbox verantwoord data gebruik\n\n\nProgramma Realisatie Interbestuurlijke Data Strategie\n\n\n\n\n\n\n\n\nNorbert van Dijk\n\n\n\n\n\n\nNo matching items\n\n\n\nDeze website wordt ontwikkeld met Quarto en wordt gehost op Github Pages."
-  },
-  {
-    "objectID": "license.html",
-    "href": "license.html",
-    "title": "Licentie",
-    "section": "",
-    "text": "CC BY 4.0 Legal Code"
+    "text": "De FAIR Guiding Priniples kennen Engelstalig begrippenkaders in de vorm van ontologien: FAIR Vocabulary en FAIR Implementation Profile Ontology. Deze begrippenkaders zijn primair gericht op het domein van research datamanagement.\n\n\n\nHet is daarom nuttig daarnaast ook een Nederlandstalig begrippenkader te ontwikkelen gericht op toepassingen binnen het domein van de Nederlandse overheid buiten het overlappende domein van research datamanagement. Daarbij kan dan gebruik worden gemaakt van de Standaard voor Beschrijvingen van Begrippen NL-SBB (Geonovum) en van de Begrippenlader editor. Daarnaast is het goed om zoveel mogelijk te verwijzen naar al bestaande begrippenkaders door ArchiXL op BegripppenXL samengebracht.",
+    "crumbs": [
+      "Home",
+      "Begrippen"
+    ]
   },
   {
     "objectID": "contributing.html",
@@ -95,26 +71,50 @@
     "text": "Stel een wijziging voor\nHeb je een suggestie of wil je een verbetering voorstellen? Er zijn verschillende manieren waarop je een verbetering kunt voorstellen.\n\nMaak op GitHub een issue aan\nMaak op GitHub een Issue aan.\n\nKlik op de knop “New issue”.\nSchrijf je suggestie kort op en geef daaronder een toelichting.\nKlik op de knop “Create”\nAnderen kunnen daarna eventueel nog opmerkingen toevoegen aan jouw issue.\n\n\n\nMaak op GitHub een pull-request aan\nKun je niet uit de voeten met een issue bijvoorbeeld omdat je een omvangrijk wijzigingsvoorstel wilt doen? Dan kun je in een eigen GitHub account een Fork van de repository van GO FAIR_GOV_NL maken en daarvandaan een Pull Request doen."
   },
   {
-    "objectID": "docs/terms/content.html",
-    "href": "docs/terms/content.html",
-    "title": "Begrippen",
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "Licentie",
     "section": "",
-    "text": "De FAIR Guiding Priniples kennen Engelstalig begrippenkaders in de vorm van ontologien: FAIR Vocabulary en FAIR Implementation Profile Ontology. Deze begrippenkaders zijn primair gericht op het domein van research datamanagement.\n\n\n\nHet is daarom nuttig daarnaast ook een Nederlandstalig begrippenkader te ontwikkelen gericht op toepassingen binnen het domein van de Nederlandse overheid buiten het overlappende domein van research datamanagement. Daarbij kan dan gebruik worden gemaakt van de Standaard voor Beschrijvingen van Begrippen NL-SBB (Geonovum) en van de Begrippenlader editor. Daarnaast is het goed om zoveel mogelijk te verwijzen naar al bestaande begrippenkaders door ArchiXL op BegripppenXL samengebracht.",
+    "text": "CC BY 4.0 Legal Code"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "GO FAIR_GOV_NL Wiki",
+    "section": "",
+    "text": "Wiki\nEen Nederlands profiel van de interpretatie en implementatie van de FAIR Data Principles door en voor de Nederlandse overheid.\nDe FAIR Data Principles en dit Nederlandse profiel van de interpretatie en implementatie ervan hebben als doel de herbruikbaarheid van data te vergroten. De FAIR Data Principles zijn erop gericht om data beter vindbaar, toegankelijk, interoperabel en herbruikbaar te maken voor mens en machine. FAIR data zijn niet per definitie ook data open data. Juist ook voor (privacy) gevoelige data (gesloten data) kan het heel zinvol zijn om te voldoen aan de principes voor FAIR data, om juist daarmee specifieke geautoriseerde toegang tot deze data mogelijk te kunnen maken.\nDeze wiki wordt onderhouden door de Stichting GO FAIR in Leiden, samen met een groeiende community binnen de Nederlandse overheid.\n\nLaatste nieuws | Alle nieuwsberichten\n\n\n\n\n\n\n\n\n\n\nOnderzoeksrapport Federatieve Toegangsverlening\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFederatief Data Stelsel\n\n\nHet data ecosyteem van de Nederlandse overheid\n\n\n\n\n\n\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\n\n\nToolbox verantwoord data gebruik\n\n\nProgramma Realisatie Interbestuurlijke Data Strategie\n\n\n\n\n\n\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\n\n\nFAIR Guiding Principles in Algoritmekader\n\n\nNederlandse vertaling van de FAIR Guiding Principles in het Algoritmekader, \n\n\n\n\n\n\n\n\nNorbert van Dijk\n\n\n\n\n\n\nNo matching items\n\n\n\nDeze website wordt ontwikkeld met Quarto en wordt gehost op Github Pages."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Over deze website",
+    "section": "",
+    "text": "De Stichting GO FAIR ontwikkelt een Nederlands applicatieprofiel van de interpretatie en implementatie van de FAIR Data Principles door en voor de Nederlandse overheid. Dit doen we samen met een groeiende community binnen de Nederlandse overheid. Deze community en dit initiatief hebben voorlopig als werktitel GO FAIR_GOV_NL. We hanteren een open source aanpak op Github. In deze repository ontwikkelen wij de content voor dit Nederlands applicatieprofiel van de interpretatie en implementatie van de FAIR Data Principles. Dit aangevuld met een blog met relevante nieuwsberichten uit de community en achtergronden waaronder informatie over succesvolle use cases van de implementatie van de FAIR Data Principles binnen de Nederlandse overheid.\nDe FAIR Data Principles en dit Nederlandse profiel van de interpretatie en implementatie ervan hebben als doel de herbruikbaarheid van data te vergroten. De FAIR Data Principles zijn erop gericht om data beter vindbaar, toegankelijk, interoperabel en herbruikbaar te maken voor mens en machine. FAIR data zijn niet per definitie ook data open data. Juist ook voor (privacy) gevoelige data (gesloten data) kan het heel zinvol zijn om te voldoen aan de principes voor FAIR data, om juist daarmee specifieke geautoriseerde toegang tot deze data mogelijk te kunnen maken."
+  },
+  {
+    "objectID": "about.html#hoe-kun-je-bijdragen",
+    "href": "about.html#hoe-kun-je-bijdragen",
+    "title": "Over deze website",
+    "section": "Hoe kun je bijdragen?",
+    "text": "Hoe kun je bijdragen?\nDit kan op verschillende manieren. Zie daarvoor deze handreiking met uitleg over hoe je kunt bijdragen aan GO FAIR_GOV_NL.\nDeze website wordt ontwikkeld met Quarto en wordt gehost op Github Pages."
+  },
+  {
+    "objectID": "docs/usecases/index.html",
+    "href": "docs/usecases/index.html",
+    "title": "Use cases",
+    "section": "",
+    "text": "Klimaatadaptatie van de gebouwde omgeving\n\n\nEen project van I&W in samenwerking met Stichting Climate Adaptation Services, Stichting W/E adviseurs, Hogeschool Amsterdam, Stichting GO FAIR en Purple Polar Bear\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSamenwerken in de ondergrond\n\n\nEen project van I&W in samenwerking met de Stichting GO FAIR en Purple Polar Bear\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWooFAIR: Making Open Government Data FAIR\n\n\nEen project van de Universiteit van Amsterdam binnen het NWO onderzoeksprogramma Open Science Fund\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Home",
-      "Begrippen"
+      "Use cases"
     ]
   },
   {
-    "objectID": "docs/terms/content.html#begrippenkader",
-    "href": "docs/terms/content.html#begrippenkader",
-    "title": "Begrippen",
+    "objectID": "docs/news/index.html",
+    "href": "docs/news/index.html",
+    "title": "Nieuws",
     "section": "",
-    "text": "De FAIR Guiding Priniples kennen Engelstalig begrippenkaders in de vorm van ontologien: FAIR Vocabulary en FAIR Implementation Profile Ontology. Deze begrippenkaders zijn primair gericht op het domein van research datamanagement.\n\n\n\nHet is daarom nuttig daarnaast ook een Nederlandstalig begrippenkader te ontwikkelen gericht op toepassingen binnen het domein van de Nederlandse overheid buiten het overlappende domein van research datamanagement. Daarbij kan dan gebruik worden gemaakt van de Standaard voor Beschrijvingen van Begrippen NL-SBB (Geonovum) en van de Begrippenlader editor. Daarnaast is het goed om zoveel mogelijk te verwijzen naar al bestaande begrippenkaders door ArchiXL op BegripppenXL samengebracht.",
-    "crumbs": [
-      "Home",
-      "Begrippen"
-    ]
+    "text": "FAIR Guiding Principles in Algoritmekader\n\n\nNederlandse vertaling van de FAIR Guiding Principles in het Algoritmekader, \n\n\n\n\n\n\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\n\n\nFederatief Data Stelsel\n\n\nHet data ecosyteem van de Nederlandse overheid\n\n\n\n\n\n\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\n\n\nWooFAIR\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOnderzoeksrapport Federatieve Toegangsverlening\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKansen voor promovendi en studenten\n\n\n\n\n\n\n\n\n\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\n\n\nToolbox verantwoord data gebruik\n\n\nProgramma Realisatie Interbestuurlijke Data Strategie\n\n\n\n\n\n\n\n\nNorbert van Dijk\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "docs/news/posts/2025-02-01-federatief data stelsel/index.html",
