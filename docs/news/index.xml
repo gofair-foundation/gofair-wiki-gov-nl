@@ -17,7 +17,7 @@
 <width>144</width>
 </image>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Tue, 04 Mar 2025 08:56:50 GMT</lastBuildDate>
+<lastBuildDate>Tue, 04 Mar 2025 13:35:30 GMT</lastBuildDate>
 <item>
   <title>FAIR Guiding Principles in Algoritmekader</title>
   <dc:creator>Norbert van Dijk</dc:creator>
@@ -31,25 +31,29 @@
 <h2 class="anchored" data-anchor-id="algoritmekader">Algoritmekader</h2>
 <p>Een Nederlandse vertaling van de FAIR Guiding Principles heeft een plaats gekregen in het <a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/3-dat-12-fair-data/?h=">Algoritmekader</a> van de Nederlandse overheid. Voor de interpretaties wordt daar vooralsnog verwezen naar de Engelstalige interpretaties van de <a href="https://www.gofair.foundation/">GO FAIR Foundation</a>.</p>
 </section>
-<section id="fair-data-for-trusted-ai" class="level2">
-<h2 class="anchored" data-anchor-id="fair-data-for-trusted-ai">‘FAIR Data for Trusted AI’</h2>
-<p>Wanneer data voldoet aan de FAIR Guiding Principles dan zijn deze data niet alleen vindbaar, toegankelijk, interoperabel en herbruikbaar maar ook ‘machine actionable’. Dit betekent dat deze data gebruikt kunnen worden door en voor toepassingen van kunstmatige intelligentie. De data zijn dan ‘Fully AI Ready’. Een consequent toepassen van de FAIR Guiding Principles maakt data beter (her)bruikbaar voor kunstmatige intelligentie:</p>
-<blockquote class="blockquote">
+<section id="fair-data-for-trusted-ai1" class="level2">
+<h2 class="anchored" data-anchor-id="fair-data-for-trusted-ai1">‘FAIR Data for Trusted AI’<sup>1</sup></h2>
+<p>Wanneer data voldoen aan de FAIR Guiding Principles dan zijn deze niet alleen beter vindbaar, toegankelijk, interoperabel en herbruikbaar maar ook ‘machine actionable’. Dit betekent dat de data beter gebruikt kunnen worden door en voor toepassingen van kunstmatige intelligentie. De data zijn dan ‘Fully AI Ready’.</p>
+<p>Een consequent toepassen van de FAIR Guiding Principles maakt data beter (her)bruikbaar voor toepassingen van kunstmatige intelligentie:</p>
 <p>‘<strong>Computability</strong>’</p>
-<p>FAIR data maken gebruik van formele talen voor kennisrepresentatie en vocabulaires of woordenboeken wat maakt dat kunstmatige intelligentie data niet alleen op juiste wijze leest maar ook op de juiste wijze interpreteert.</p>
+<p>FAIR data maken gebruik van formele talen voor kennisrepresentatie en vocabulaires of woordenboeken, dit maakt dat kunstmatige intelligentie de data niet alleen op de juiste wijze leest, maar er ook de juiste betekenis aan toekent.</p>
 <p>‘<strong>Thrustworthiness</strong>’</p>
 <p>FAIR data bezitten een (rijke) duiding van de herkomst (context) van de data. Een vertrouwde herkomst van data draagt belangrijk bij aan vertrouwde toepassingen van kunstmaige intelligentie.</p>
 <p>‘<strong>Equitability</strong>’</p>
-<p>FAIR data bezitten expliciete voorwaarden voor hergebruik waardoor mogelijkheden voor hergebruik voor alle partijen gelijk zijn.</p>
-</blockquote>
-<p>Vrij vertaald uit werk van [dr. Erik Schultes](https://orcid.org/0000-0001-8888-635X), FAIR Implementation Lead, GO FAIR Foundation</p>
+<p>FAIR data bezitten expliciete voorwaarden voor hergebruik waardoor de mogelijkheden voor hergebruik voor alle partijen gelijk zijn.</p>
 
 
 </section>
 
- ]]></description>
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Vrij vertaald uit het werk van <a href="https://orcid.org/0000-0001-8888-635X">Erik Schultes</a>, FAIR Implementation Lead, GO FAIR Foundation.↩︎</p></li>
+</ol>
+</section></div> ]]></description>
   <guid>https://nl.gofair.foundation/docs/news/posts/2025-01-08-algoritmekader/</guid>
-  <pubDate>Tue, 04 Mar 2025 08:56:50 GMT</pubDate>
+  <pubDate>Tue, 04 Mar 2025 13:35:30 GMT</pubDate>
 </item>
 <item>
   <title>Federatief Data Stelsel</title>
@@ -76,7 +80,7 @@
 
  ]]></description>
   <guid>https://nl.gofair.foundation/docs/news/posts/2025-02-01-federatief data stelsel/</guid>
-  <pubDate>Tue, 04 Mar 2025 08:56:50 GMT</pubDate>
+  <pubDate>Tue, 04 Mar 2025 13:35:30 GMT</pubDate>
 </item>
 <item>
   <title>WooFAIR</title>
@@ -94,7 +98,7 @@
 
  ]]></description>
   <guid>https://nl.gofair.foundation/docs/news/posts/2025-02-01-woofair/</guid>
-  <pubDate>Tue, 04 Mar 2025 08:56:50 GMT</pubDate>
+  <pubDate>Tue, 04 Mar 2025 13:35:30 GMT</pubDate>
 </item>
 <item>
   <title>Onderzoeksrapport Federatieve Toegangsverlening</title>
@@ -112,7 +116,7 @@
 
  ]]></description>
   <guid>https://nl.gofair.foundation/docs/news/posts/2025-02-12-onderzoeksrapport-federatieve-toegangsverlening/</guid>
-  <pubDate>Tue, 04 Mar 2025 08:56:50 GMT</pubDate>
+  <pubDate>Tue, 04 Mar 2025 13:35:30 GMT</pubDate>
 </item>
 <item>
   <title>Kansen voor promovendi en studenten</title>
@@ -148,7 +152,7 @@
 
  ]]></description>
   <guid>https://nl.gofair.foundation/docs/news/posts/2025-02-28-kansen-voor-promovendi/</guid>
-  <pubDate>Tue, 04 Mar 2025 08:56:50 GMT</pubDate>
+  <pubDate>Tue, 04 Mar 2025 13:35:30 GMT</pubDate>
 </item>
 <item>
   <title>Toolbox verantwoord data gebruik</title>
@@ -168,7 +172,7 @@
 
  ]]></description>
   <guid>https://nl.gofair.foundation/docs/news/posts/2025-02-28-toolbox-verantwoord-datagebruik/</guid>
-  <pubDate>Tue, 04 Mar 2025 08:56:50 GMT</pubDate>
+  <pubDate>Tue, 04 Mar 2025 13:35:30 GMT</pubDate>
 </item>
 </channel>
 </rss>

@@ -145,11 +145,18 @@
     "text": "Een Nederlandse vertaling van de FAIR Guiding Principles heeft een plaats gekregen in het Algoritmekader van de Nederlandse overheid. Voor de interpretaties wordt daar vooralsnog verwezen naar de Engelstalige interpretaties van de GO FAIR Foundation."
   },
   {
-    "objectID": "docs/news/posts/2025-01-08-algoritmekader/index.html#fair-data-for-trusted-ai",
-    "href": "docs/news/posts/2025-01-08-algoritmekader/index.html#fair-data-for-trusted-ai",
+    "objectID": "docs/news/posts/2025-01-08-algoritmekader/index.html#fair-data-for-trusted-ai1",
+    "href": "docs/news/posts/2025-01-08-algoritmekader/index.html#fair-data-for-trusted-ai1",
     "title": "FAIR Guiding Principles in Algoritmekader",
-    "section": "‘FAIR Data for Trusted AI’",
-    "text": "‘FAIR Data for Trusted AI’\nWanneer data voldoet aan de FAIR Guiding Principles dan zijn deze data niet alleen vindbaar, toegankelijk, interoperabel en herbruikbaar maar ook ‘machine actionable’. Dit betekent dat deze data gebruikt kunnen worden door en voor toepassingen van kunstmatige intelligentie. De data zijn dan ‘Fully AI Ready’. Een consequent toepassen van de FAIR Guiding Principles maakt data beter (her)bruikbaar voor kunstmatige intelligentie:\n\n‘Computability’\nFAIR data maken gebruik van formele talen voor kennisrepresentatie en vocabulaires of woordenboeken wat maakt dat kunstmatige intelligentie data niet alleen op juiste wijze leest maar ook op de juiste wijze interpreteert.\n‘Thrustworthiness’\nFAIR data bezitten een (rijke) duiding van de herkomst (context) van de data. Een vertrouwde herkomst van data draagt belangrijk bij aan vertrouwde toepassingen van kunstmaige intelligentie.\n‘Equitability’\nFAIR data bezitten expliciete voorwaarden voor hergebruik waardoor mogelijkheden voor hergebruik voor alle partijen gelijk zijn.\n\nVrij vertaald uit werk van [dr. Erik Schultes](https://orcid.org/0000-0001-8888-635X), FAIR Implementation Lead, GO FAIR Foundation"
+    "section": "‘FAIR Data for Trusted AI’1",
+    "text": "‘FAIR Data for Trusted AI’1\nWanneer data voldoen aan de FAIR Guiding Principles dan zijn deze niet alleen beter vindbaar, toegankelijk, interoperabel en herbruikbaar maar ook ‘machine actionable’. Dit betekent dat de data beter gebruikt kunnen worden door en voor toepassingen van kunstmatige intelligentie. De data zijn dan ‘Fully AI Ready’.\nEen consequent toepassen van de FAIR Guiding Principles maakt data beter (her)bruikbaar voor toepassingen van kunstmatige intelligentie:\n‘Computability’\nFAIR data maken gebruik van formele talen voor kennisrepresentatie en vocabulaires of woordenboeken, dit maakt dat kunstmatige intelligentie de data niet alleen op de juiste wijze leest, maar er ook de juiste betekenis aan toekent.\n‘Thrustworthiness’\nFAIR data bezitten een (rijke) duiding van de herkomst (context) van de data. Een vertrouwde herkomst van data draagt belangrijk bij aan vertrouwde toepassingen van kunstmaige intelligentie.\n‘Equitability’\nFAIR data bezitten expliciete voorwaarden voor hergebruik waardoor de mogelijkheden voor hergebruik voor alle partijen gelijk zijn."
+  },
+  {
+    "objectID": "docs/news/posts/2025-01-08-algoritmekader/index.html#footnotes",
+    "href": "docs/news/posts/2025-01-08-algoritmekader/index.html#footnotes",
+    "title": "FAIR Guiding Principles in Algoritmekader",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nVrij vertaald uit het werk van Erik Schultes, FAIR Implementation Lead, GO FAIR Foundation.↩︎"
   },
   {
     "objectID": "docs/news/posts/2025-02-28-kansen-voor-promovendi/index.html",
