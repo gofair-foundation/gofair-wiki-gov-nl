@@ -17,7 +17,7 @@
 <width>144</width>
 </image>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Tue, 04 Mar 2025 13:55:38 GMT</lastBuildDate>
+<lastBuildDate>Fri, 07 Mar 2025 10:30:31 GMT</lastBuildDate>
 <item>
   <title>FAIR Guiding Principles in Algoritmekader</title>
   <dc:creator>Norbert van Dijk</dc:creator>
@@ -30,6 +30,12 @@
 <section id="algoritmekader" class="level2">
 <h2 class="anchored" data-anchor-id="algoritmekader">Algoritmekader</h2>
 <p>Een Nederlandse vertaling van de FAIR Guiding Principles heeft een plaats gekregen in het <a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/3-dat-12-fair-data/?h=">Algoritmekader</a> van de Nederlandse overheid. Voor de interpretaties wordt daar vooralsnog verwezen naar de Engelstalige interpretaties van de <a href="https://www.gofair.foundation/">GO FAIR Foundation</a>.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://nl.gofair.foundation/docs/img/algoritmekader-fair.png" class="img-fluid figure-img"></p>
+<figcaption>Maak waardevolle data FAIR (Bron: Algoritmekader)</figcaption>
+</figure>
+</div>
 </section>
 <section id="fair-data-for-trusted-ai1" class="level2">
 <h2 class="anchored" data-anchor-id="fair-data-for-trusted-ai1">‘FAIR Data for Trusted AI’<sup>1</sup></h2>
@@ -53,7 +59,7 @@
 </ol>
 </section></div> ]]></description>
   <guid>https://nl.gofair.foundation/docs/news/posts/2025-01-08-algoritmekader/</guid>
-  <pubDate>Tue, 04 Mar 2025 13:55:38 GMT</pubDate>
+  <pubDate>Fri, 07 Mar 2025 10:30:31 GMT</pubDate>
 </item>
 <item>
   <title>Federatief Data Stelsel</title>
@@ -66,7 +72,7 @@
 
 <section id="hourglass-architecture-of-the-data-internet" class="level2">
 <h2 class="anchored" data-anchor-id="hourglass-architecture-of-the-data-internet">Hourglass Architecture of the Data-Internet</h2>
-<p>In een e-learning van de Stichting GO FAIR kwam ik recent het onderstaande plaatje tegen. Ik zie veel overeenkomsten met het zandloper model van <a href="https://federatief.datastelsel.nl/kennisbank/basisconcept/">Federatief Data Stelsel</a>, niet alleen de metafoor van een zandloper maar belangrijker ook de gestelde doelen en de wijze waarop die te bereiken. Lees meer hierover op de <a href="https://federatief.datastelsel.nl/kennisbank/">Werkbank</a> van het Federatief Data Stelsel.</p>
+<p>In een e-learning van de Stichting GO FAIR kwam ik recent het onderstaande plaatje tegen. Ik zie veel overeenkomsten met het zandloper model van <a href="https://federatief.datastelsel.nl/kennisbank/basisconcept/">Federatief Data Stelsel</a> helemaal onderaan, niet alleen de metafoor van een zandloper maar belangrijker ook de gestelde doelen en de wijze waarop die te bereiken. Lees meer hierover op de <a href="https://federatief.datastelsel.nl/kennisbank/">Werkbank</a> van het Federatief Data Stelsel.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://nl.gofair.foundation/docs/img/hourglass-architecture-of-the-data-internet.png" class="img-fluid figure-img"></p>
@@ -74,13 +80,19 @@
 </figure>
 </div>
 <p>Ik denk dat het gedachtegoed achter de FAIR Data Principes en ruim een decennium ervaring met de implementatie ervan van veel toegevoegde waarde voor het FDS kunnen zijn. De Stichting GO FAIR is daarom voornemens om in 2025 in community verband een Nederlands profiel op de FAIR Data Principes te ontwikkelen gericht op de Nederlandse overheid.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://nl.gofair.foundation/docs/img/fds-zandloper-model.png" class="img-fluid figure-img"></p>
+<figcaption>Zandloper model Federatief Data Stelsel (Bron: Federatief Data Stelsel)</figcaption>
+</figure>
+</div>
 
 
 </section>
 
  ]]></description>
   <guid>https://nl.gofair.foundation/docs/news/posts/2025-02-01-federatief data stelsel/</guid>
-  <pubDate>Tue, 04 Mar 2025 13:55:38 GMT</pubDate>
+  <pubDate>Fri, 07 Mar 2025 10:30:31 GMT</pubDate>
 </item>
 <item>
   <title>WooFAIR</title>
@@ -98,7 +110,7 @@
 
  ]]></description>
   <guid>https://nl.gofair.foundation/docs/news/posts/2025-02-01-woofair/</guid>
-  <pubDate>Tue, 04 Mar 2025 13:55:38 GMT</pubDate>
+  <pubDate>Fri, 07 Mar 2025 10:30:31 GMT</pubDate>
 </item>
 <item>
   <title>Onderzoeksrapport Federatieve Toegangsverlening</title>
@@ -116,7 +128,7 @@
 
  ]]></description>
   <guid>https://nl.gofair.foundation/docs/news/posts/2025-02-12-onderzoeksrapport-federatieve-toegangsverlening/</guid>
-  <pubDate>Tue, 04 Mar 2025 13:55:38 GMT</pubDate>
+  <pubDate>Fri, 07 Mar 2025 10:30:31 GMT</pubDate>
 </item>
 <item>
   <title>Kansen voor promovendi en studenten</title>
@@ -152,7 +164,7 @@
 
  ]]></description>
   <guid>https://nl.gofair.foundation/docs/news/posts/2025-02-28-kansen-voor-promovendi/</guid>
-  <pubDate>Tue, 04 Mar 2025 13:55:38 GMT</pubDate>
+  <pubDate>Fri, 07 Mar 2025 10:30:31 GMT</pubDate>
 </item>
 <item>
   <title>Toolbox verantwoord data gebruik</title>
@@ -166,13 +178,19 @@
 <section id="point-fairification-framework" class="level2">
 <h2 class="anchored" data-anchor-id="point-fairification-framework">3-Point FAIRification Framework</h2>
 <p>De <a href="https://realisatieibds.nl/page/view/ff607c02-9f09-440a-a0e7-9bbb6c7ceb09/3-data-verzamelen">Toolbox verantwoord data gebruik</a> van het programma Realisatie Interbestuurlijke Data Strategie verwijst naar de FAIR Guiding Principles en naar het <a href="https://realisatieibds.nl/wiki/view/68348902-1796-4654-942d-cd859bfacf57/three-point-fairification-framework">3-Point FAIRification Framework</a> van de GO FAIR Foundation. Ik vraag me af of dit framework binnen het domein van datamanagement van de Nederlandse overheid maar buiten het overlappende domein van research datamanagemement met de huidige invulling van het framework bruikbaar is. Wellicht is ook hier een wat andere interpretatie en implementatie nodig.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://nl.gofair.foundation/docs/img/ibds-3pff.png" class="img-fluid figure-img"></p>
+<figcaption>3-Point FAIRification Framework (Bron: IBDS)</figcaption>
+</figure>
+</div>
 
 
 </section>
 
  ]]></description>
   <guid>https://nl.gofair.foundation/docs/news/posts/2025-02-28-toolbox-verantwoord-datagebruik/</guid>
-  <pubDate>Tue, 04 Mar 2025 13:55:38 GMT</pubDate>
+  <pubDate>Fri, 07 Mar 2025 10:30:31 GMT</pubDate>
 </item>
 </channel>
 </rss>

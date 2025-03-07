@@ -1,17 +1,39 @@
 [
   {
+    "objectID": "docs/introduction/content.html",
+    "href": "docs/introduction/content.html",
+    "title": "Introductie",
+    "section": "",
+    "text": "De FAIR Guiding Principles en een Nederlandse profiel van de interpretatie en implementatie ervan hebben als doel de herbruikbaarheid van data te vergroten. De FAIR Guiding Principles zijn erop gericht om data beter vindbaar, toegankelijk, interoperabel en herbruikbaar te maken voor mens en machine. FAIR data zijn niet per definitie ook open data. Juist ook voor (privacy) gevoelige data (gesloten data) kan het heel zinvol zijn om de FAIR Guiding Principles te implementeren, om juist daarmee specifieke geautoriseerde toegang tot deze data mogelijk te kunnen maken.\n\n\n\n\n\nprincipes voor FAIR data geen specificatie evenmin een (open) standaard richting gevende uitspraken die zich internationaal hebben bewezen nu met good practices voor de interpretatie en implemenatie ervan ontleend aan de praktijk van de Nederlandse overheid expliciet maken van waarin vaak al impliciet wordt voorzien verbinden van veelheid en verscheidenheid van initiatieven, beleid, diensten en specificaties in relatie tot data\nprincipes voor FAIR data als common ground voor de veelheid en verscheidenheid van initiatieven, beleid, diensten, specificaties en open standaarden in relatie tot data",
+    "crumbs": [
+      "Home",
+      "Introductie"
+    ]
+  },
+  {
+    "objectID": "docs/introduction/content.html#fair-guiding-principles",
+    "href": "docs/introduction/content.html#fair-guiding-principles",
+    "title": "Introductie",
+    "section": "",
+    "text": "De FAIR Guiding Principles en een Nederlandse profiel van de interpretatie en implementatie ervan hebben als doel de herbruikbaarheid van data te vergroten. De FAIR Guiding Principles zijn erop gericht om data beter vindbaar, toegankelijk, interoperabel en herbruikbaar te maken voor mens en machine. FAIR data zijn niet per definitie ook open data. Juist ook voor (privacy) gevoelige data (gesloten data) kan het heel zinvol zijn om de FAIR Guiding Principles te implementeren, om juist daarmee specifieke geautoriseerde toegang tot deze data mogelijk te kunnen maken.\n\n\n\n\n\nprincipes voor FAIR data geen specificatie evenmin een (open) standaard richting gevende uitspraken die zich internationaal hebben bewezen nu met good practices voor de interpretatie en implemenatie ervan ontleend aan de praktijk van de Nederlandse overheid expliciet maken van waarin vaak al impliciet wordt voorzien verbinden van veelheid en verscheidenheid van initiatieven, beleid, diensten en specificaties in relatie tot data\nprincipes voor FAIR data als common ground voor de veelheid en verscheidenheid van initiatieven, beleid, diensten, specificaties en open standaarden in relatie tot data",
+    "crumbs": [
+      "Home",
+      "Introductie"
+    ]
+  },
+  {
     "objectID": "docs/news/posts/2025-02-28-toolbox-verantwoord-datagebruik/index.html",
     "href": "docs/news/posts/2025-02-28-toolbox-verantwoord-datagebruik/index.html",
     "title": "Toolbox verantwoord data gebruik",
     "section": "",
-    "text": "De Toolbox verantwoord data gebruik van het programma Realisatie Interbestuurlijke Data Strategie verwijst naar de FAIR Guiding Principles en naar het 3-Point FAIRification Framework van de GO FAIR Foundation. Ik vraag me af of dit framework binnen het domein van datamanagement van de Nederlandse overheid maar buiten het overlappende domein van research datamanagemement met de huidige invulling van het framework bruikbaar is. Wellicht is ook hier een wat andere interpretatie en implementatie nodig."
+    "text": "De Toolbox verantwoord data gebruik van het programma Realisatie Interbestuurlijke Data Strategie verwijst naar de FAIR Guiding Principles en naar het 3-Point FAIRification Framework van de GO FAIR Foundation. Ik vraag me af of dit framework binnen het domein van datamanagement van de Nederlandse overheid maar buiten het overlappende domein van research datamanagemement met de huidige invulling van het framework bruikbaar is. Wellicht is ook hier een wat andere interpretatie en implementatie nodig.\n\n\n\n3-Point FAIRification Framework (Bron: IBDS)"
   },
   {
     "objectID": "docs/news/posts/2025-02-28-toolbox-verantwoord-datagebruik/index.html#point-fairification-framework",
     "href": "docs/news/posts/2025-02-28-toolbox-verantwoord-datagebruik/index.html#point-fairification-framework",
     "title": "Toolbox verantwoord data gebruik",
     "section": "",
-    "text": "De Toolbox verantwoord data gebruik van het programma Realisatie Interbestuurlijke Data Strategie verwijst naar de FAIR Guiding Principles en naar het 3-Point FAIRification Framework van de GO FAIR Foundation. Ik vraag me af of dit framework binnen het domein van datamanagement van de Nederlandse overheid maar buiten het overlappende domein van research datamanagemement met de huidige invulling van het framework bruikbaar is. Wellicht is ook hier een wat andere interpretatie en implementatie nodig."
+    "text": "De Toolbox verantwoord data gebruik van het programma Realisatie Interbestuurlijke Data Strategie verwijst naar de FAIR Guiding Principles en naar het 3-Point FAIRification Framework van de GO FAIR Foundation. Ik vraag me af of dit framework binnen het domein van datamanagement van de Nederlandse overheid maar buiten het overlappende domein van research datamanagemement met de huidige invulling van het framework bruikbaar is. Wellicht is ook hier een wat andere interpretatie en implementatie nodig.\n\n\n\n3-Point FAIRification Framework (Bron: IBDS)"
   },
   {
     "objectID": "docs/terms/content.html",
@@ -89,7 +111,7 @@
     "href": "about.html",
     "title": "Over deze website",
     "section": "",
-    "text": "De Stichting GO FAIR ontwikkelt een Nederlands applicatieprofiel van de interpretatie en implementatie van de FAIR Data Principles door en voor de Nederlandse overheid. Dit doen we samen met een groeiende community binnen de Nederlandse overheid. Deze community en dit initiatief hebben voorlopig als werktitel GO FAIR_GOV_NL. We hanteren een open source aanpak op Github. In deze repository ontwikkelen wij de content voor dit Nederlands applicatieprofiel van de interpretatie en implementatie van de FAIR Data Principles. Dit aangevuld met een blog met relevante nieuwsberichten uit de community en achtergronden waaronder informatie over succesvolle use cases van de implementatie van de FAIR Data Principles binnen de Nederlandse overheid.\nDe FAIR Data Principles en dit Nederlandse profiel van de interpretatie en implementatie ervan hebben als doel de herbruikbaarheid van data te vergroten. De FAIR Data Principles zijn erop gericht om data beter vindbaar, toegankelijk, interoperabel en herbruikbaar te maken voor mens en machine. FAIR data zijn niet per definitie ook data open data. Juist ook voor (privacy) gevoelige data (gesloten data) kan het heel zinvol zijn om te voldoen aan de principes voor FAIR data, om juist daarmee specifieke geautoriseerde toegang tot deze data mogelijk te kunnen maken."
+    "text": "De Stichting GO FAIR ontwikkelt een Nederlands applicatieprofiel van de interpretatie en implementatie van de FAIR Guiding Principles door en voor de Nederlandse overheid. Dit doen we samen met een groeiende community binnen de Nederlandse overheid. Deze community en dit initiatief hebben voorlopig als werktitel GO FAIR_GOV_NL. We hanteren een open source aanpak op Github. In deze repository ontwikkelen wij de content voor dit Nederlands applicatieprofiel van de interpretatie en implementatie van de FAIR Guiding Principles. Dit aangevuld met een blog met relevante nieuwsberichten uit de community en achtergronden waaronder informatie over succesvolle use cases van de implementatie van de FAIR Guiding Principles binnen de Nederlandse overheid."
   },
   {
     "objectID": "about.html#hoe-kun-je-bijdragen",
@@ -121,28 +143,28 @@
     "href": "docs/news/posts/2025-02-01-federatief data stelsel/index.html",
     "title": "Federatief Data Stelsel",
     "section": "",
-    "text": "In een e-learning van de Stichting GO FAIR kwam ik recent het onderstaande plaatje tegen. Ik zie veel overeenkomsten met het zandloper model van Federatief Data Stelsel, niet alleen de metafoor van een zandloper maar belangrijker ook de gestelde doelen en de wijze waarop die te bereiken. Lees meer hierover op de Werkbank van het Federatief Data Stelsel.\n\n\n\nHourglass Architecture of the Data-Internet (Bron: GO FAIR Foundation)\n\n\nIk denk dat het gedachtegoed achter de FAIR Data Principes en ruim een decennium ervaring met de implementatie ervan van veel toegevoegde waarde voor het FDS kunnen zijn. De Stichting GO FAIR is daarom voornemens om in 2025 in community verband een Nederlands profiel op de FAIR Data Principes te ontwikkelen gericht op de Nederlandse overheid."
+    "text": "In een e-learning van de Stichting GO FAIR kwam ik recent het onderstaande plaatje tegen. Ik zie veel overeenkomsten met het zandloper model van Federatief Data Stelsel helemaal onderaan, niet alleen de metafoor van een zandloper maar belangrijker ook de gestelde doelen en de wijze waarop die te bereiken. Lees meer hierover op de Werkbank van het Federatief Data Stelsel.\n\n\n\nHourglass Architecture of the Data-Internet (Bron: GO FAIR Foundation)\n\n\nIk denk dat het gedachtegoed achter de FAIR Data Principes en ruim een decennium ervaring met de implementatie ervan van veel toegevoegde waarde voor het FDS kunnen zijn. De Stichting GO FAIR is daarom voornemens om in 2025 in community verband een Nederlands profiel op de FAIR Data Principes te ontwikkelen gericht op de Nederlandse overheid.\n\n\n\nZandloper model Federatief Data Stelsel (Bron: Federatief Data Stelsel)"
   },
   {
     "objectID": "docs/news/posts/2025-02-01-federatief data stelsel/index.html#hourglass-architecture-of-the-data-internet",
     "href": "docs/news/posts/2025-02-01-federatief data stelsel/index.html#hourglass-architecture-of-the-data-internet",
     "title": "Federatief Data Stelsel",
     "section": "",
-    "text": "In een e-learning van de Stichting GO FAIR kwam ik recent het onderstaande plaatje tegen. Ik zie veel overeenkomsten met het zandloper model van Federatief Data Stelsel, niet alleen de metafoor van een zandloper maar belangrijker ook de gestelde doelen en de wijze waarop die te bereiken. Lees meer hierover op de Werkbank van het Federatief Data Stelsel.\n\n\n\nHourglass Architecture of the Data-Internet (Bron: GO FAIR Foundation)\n\n\nIk denk dat het gedachtegoed achter de FAIR Data Principes en ruim een decennium ervaring met de implementatie ervan van veel toegevoegde waarde voor het FDS kunnen zijn. De Stichting GO FAIR is daarom voornemens om in 2025 in community verband een Nederlands profiel op de FAIR Data Principes te ontwikkelen gericht op de Nederlandse overheid."
+    "text": "In een e-learning van de Stichting GO FAIR kwam ik recent het onderstaande plaatje tegen. Ik zie veel overeenkomsten met het zandloper model van Federatief Data Stelsel helemaal onderaan, niet alleen de metafoor van een zandloper maar belangrijker ook de gestelde doelen en de wijze waarop die te bereiken. Lees meer hierover op de Werkbank van het Federatief Data Stelsel.\n\n\n\nHourglass Architecture of the Data-Internet (Bron: GO FAIR Foundation)\n\n\nIk denk dat het gedachtegoed achter de FAIR Data Principes en ruim een decennium ervaring met de implementatie ervan van veel toegevoegde waarde voor het FDS kunnen zijn. De Stichting GO FAIR is daarom voornemens om in 2025 in community verband een Nederlands profiel op de FAIR Data Principes te ontwikkelen gericht op de Nederlandse overheid.\n\n\n\nZandloper model Federatief Data Stelsel (Bron: Federatief Data Stelsel)"
   },
   {
     "objectID": "docs/news/posts/2025-01-08-algoritmekader/index.html",
     "href": "docs/news/posts/2025-01-08-algoritmekader/index.html",
     "title": "FAIR Guiding Principles in Algoritmekader",
     "section": "",
-    "text": "Een Nederlandse vertaling van de FAIR Guiding Principles heeft een plaats gekregen in het Algoritmekader van de Nederlandse overheid. Voor de interpretaties wordt daar vooralsnog verwezen naar de Engelstalige interpretaties van de GO FAIR Foundation."
+    "text": "Een Nederlandse vertaling van de FAIR Guiding Principles heeft een plaats gekregen in het Algoritmekader van de Nederlandse overheid. Voor de interpretaties wordt daar vooralsnog verwezen naar de Engelstalige interpretaties van de GO FAIR Foundation.\n\n\n\nMaak waardevolle data FAIR (Bron: Algoritmekader)"
   },
   {
     "objectID": "docs/news/posts/2025-01-08-algoritmekader/index.html#algoritmekader",
     "href": "docs/news/posts/2025-01-08-algoritmekader/index.html#algoritmekader",
     "title": "FAIR Guiding Principles in Algoritmekader",
     "section": "",
-    "text": "Een Nederlandse vertaling van de FAIR Guiding Principles heeft een plaats gekregen in het Algoritmekader van de Nederlandse overheid. Voor de interpretaties wordt daar vooralsnog verwezen naar de Engelstalige interpretaties van de GO FAIR Foundation."
+    "text": "Een Nederlandse vertaling van de FAIR Guiding Principles heeft een plaats gekregen in het Algoritmekader van de Nederlandse overheid. Voor de interpretaties wordt daar vooralsnog verwezen naar de Engelstalige interpretaties van de GO FAIR Foundation.\n\n\n\nMaak waardevolle data FAIR (Bron: Algoritmekader)"
   },
   {
     "objectID": "docs/news/posts/2025-01-08-algoritmekader/index.html#fair-data-for-trusted-ai1",
