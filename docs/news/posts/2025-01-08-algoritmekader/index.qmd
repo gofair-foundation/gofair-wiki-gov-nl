@@ -13,6 +13,8 @@ editor: visual
 
 Een Nederlandse vertaling van de FAIR Guiding Principles heeft een plaats gekregen in het [Algoritmekader](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/3-dat-12-fair-data/?h=) van de Nederlandse overheid. Voor de interpretaties wordt daar vooralsnog verwezen naar de Engelstalige interpretaties van de [GO FAIR Foundation](https://www.gofair.foundation/).
 
+![Maak waardevolle data FAIR (Bron: Algoritmekader)](/docs/img/algoritmekader-fair.png)
+
 ## 'FAIR Data for Trusted AI'[^1]
 
 [^1]: Vrij vertaald uit het werk van [Erik Schultes](https://orcid.org/0000-0001-8888-635X), FAIR Implementation Lead, GO FAIR Foundation.
