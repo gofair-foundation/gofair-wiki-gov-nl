@@ -11,8 +11,10 @@ editor: visual
 
 ## Hourglass Architecture of the Data-Internet
 
-In een e-learning van de Stichting GO FAIR kwam ik recent het onderstaande plaatje tegen. Ik zie veel overeenkomsten met het zandloper model van [Federatief Data Stelsel](https://federatief.datastelsel.nl/kennisbank/basisconcept/), niet alleen de metafoor van een zandloper maar belangrijker ook de gestelde doelen en de wijze waarop die te bereiken. Lees meer hierover op de [Werkbank](https://federatief.datastelsel.nl/kennisbank/) van het Federatief Data Stelsel.
+In een e-learning van de Stichting GO FAIR kwam ik recent het onderstaande plaatje tegen. Ik zie veel overeenkomsten met het zandloper model van [Federatief Data Stelsel](https://federatief.datastelsel.nl/kennisbank/basisconcept/) helemaal onderaan, niet alleen de metafoor van een zandloper maar belangrijker ook de gestelde doelen en de wijze waarop die te bereiken. Lees meer hierover op de [Werkbank](https://federatief.datastelsel.nl/kennisbank/) van het Federatief Data Stelsel.
 
 ![Hourglass Architecture of the Data-Internet (Bron: GO FAIR Foundation)](/docs/img/hourglass-architecture-of-the-data-internet.png)
 
 Ik denk dat het gedachtegoed achter de FAIR Data Principes en ruim een decennium ervaring met de implementatie ervan van veel toegevoegde waarde voor het FDS kunnen zijn. De Stichting GO FAIR is daarom voornemens om in 2025 in community verband een Nederlands profiel op de FAIR Data Principes te ontwikkelen gericht op de Nederlandse overheid.
+
+![Zandloper model Federatief Data Stelsel (Bron: Federatief Data Stelsel)](/docs/img/fds-zandloper-model.png)

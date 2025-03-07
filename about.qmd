@@ -3,9 +3,8 @@ title: "Over deze website"
 subtitle: "GO FAIR_GOV_NL"
 ---
 
-De Stichting GO FAIR ontwikkelt een Nederlands applicatieprofiel van de interpretatie en implementatie van de FAIR Data Principles door en voor de Nederlandse overheid. Dit doen we samen met een groeiende community binnen de Nederlandse overheid. Deze community en dit initiatief hebben voorlopig als werktitel GO FAIR_GOV_NL. We hanteren een open source aanpak op Github. In deze repository ontwikkelen wij de content voor dit Nederlands applicatieprofiel van de interpretatie en implementatie van de FAIR Data Principles. Dit aangevuld met een blog met relevante nieuwsberichten uit de community en achtergronden waaronder informatie over succesvolle use cases van de implementatie van de FAIR Data Principles binnen de Nederlandse overheid.
+De Stichting GO FAIR ontwikkelt een Nederlands applicatieprofiel van de interpretatie en implementatie van de FAIR Guiding Principles door en voor de Nederlandse overheid. Dit doen we samen met een groeiende community binnen de Nederlandse overheid. Deze community en dit initiatief hebben voorlopig als werktitel GO FAIR_GOV_NL. We hanteren een open source aanpak op Github. In deze repository ontwikkelen wij de content voor dit Nederlands applicatieprofiel van de interpretatie en implementatie van de FAIR Guiding Principles. Dit aangevuld met een blog met relevante nieuwsberichten uit de community en achtergronden waaronder informatie over succesvolle use cases van de implementatie van de FAIR Guiding Principles binnen de Nederlandse overheid.
 
-De FAIR Data Principles en dit Nederlandse profiel van de interpretatie en implementatie ervan hebben als doel de herbruikbaarheid van data te vergroten. De FAIR Data Principles zijn erop gericht om data beter vindbaar, toegankelijk, interoperabel en herbruikbaar te maken voor mens en machine. FAIR data zijn niet per definitie ook data open data. Juist ook voor (privacy) gevoelige data (gesloten data) kan het heel zinvol zijn om te voldoen aan de principes voor FAIR data, om juist daarmee specifieke geautoriseerde toegang tot deze data mogelijk te kunnen maken.
 
 ## Hoe kun je bijdragen?
 
