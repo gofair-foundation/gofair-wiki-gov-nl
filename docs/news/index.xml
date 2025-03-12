@@ -17,7 +17,7 @@
 <width>144</width>
 </image>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Fri, 07 Mar 2025 10:30:31 GMT</lastBuildDate>
+<lastBuildDate>Wed, 12 Mar 2025 13:34:58 GMT</lastBuildDate>
 <item>
   <title>FAIR Guiding Principles in Algoritmekader</title>
   <dc:creator>Norbert van Dijk</dc:creator>
@@ -59,7 +59,7 @@
 </ol>
 </section></div> ]]></description>
   <guid>https://nl.gofair.foundation/docs/news/posts/2025-01-08-algoritmekader/</guid>
-  <pubDate>Fri, 07 Mar 2025 10:30:31 GMT</pubDate>
+  <pubDate>Wed, 12 Mar 2025 13:34:58 GMT</pubDate>
 </item>
 <item>
   <title>Federatief Data Stelsel</title>
@@ -92,7 +92,7 @@
 
  ]]></description>
   <guid>https://nl.gofair.foundation/docs/news/posts/2025-02-01-federatief data stelsel/</guid>
-  <pubDate>Fri, 07 Mar 2025 10:30:31 GMT</pubDate>
+  <pubDate>Wed, 12 Mar 2025 13:34:58 GMT</pubDate>
 </item>
 <item>
   <title>WooFAIR</title>
@@ -110,7 +110,7 @@
 
  ]]></description>
   <guid>https://nl.gofair.foundation/docs/news/posts/2025-02-01-woofair/</guid>
-  <pubDate>Fri, 07 Mar 2025 10:30:31 GMT</pubDate>
+  <pubDate>Wed, 12 Mar 2025 13:34:58 GMT</pubDate>
 </item>
 <item>
   <title>Onderzoeksrapport Federatieve Toegangsverlening</title>
@@ -128,7 +128,7 @@
 
  ]]></description>
   <guid>https://nl.gofair.foundation/docs/news/posts/2025-02-12-onderzoeksrapport-federatieve-toegangsverlening/</guid>
-  <pubDate>Fri, 07 Mar 2025 10:30:31 GMT</pubDate>
+  <pubDate>Wed, 12 Mar 2025 13:34:58 GMT</pubDate>
 </item>
 <item>
   <title>Kansen voor promovendi en studenten</title>
@@ -141,10 +141,12 @@
 
 <section id="lifes" class="level2">
 <h2 class="anchored" data-anchor-id="lifes">LIFES</h2>
-<p>De vereniging Leiden Institute for FAIR and Equitable Science &amp; Innovation (LIFES) is een publiek-private samenwerking, die zich richt op innovatief hergebruik van gegevens binnen en buiten wetenschappelijk onderzoek . Dit doet LIFES door het bijeenbrengen van daarvoor relevante expertise en het aanjagen van de ontwikkeling van een ecosysteem van organisaties en technologie dat dit mogelijk maakt. Speerpunt is de inzet van ‘federated learning’ op privacygevoelige gegevens. Het LIFES netwerk omvat inmiddels enkele tientallen publieke en private organisaties binnen en buiten Nederland, waaronder LUMC, Naturalis, TNO, Roche en TU Twente.</p>
+<p><img src="https://nl.gofair.foundation/docs/img/LIFES.avif" class="img-fluid"></p>
+<p>De vereniging Leiden Institute for FAIR and Equitable Science &amp; Innovation (LIFES) is een publiek-private samenwerking, die zich richt op innovatief, gelijkwaardig en veilig hergebruik van gegevens binnen en buiten wetenschappelijk onderzoek . Dit doet LIFES door het bijeenbrengen van daarvoor relevante expertise en het aanjagen van de ontwikkeling van een ecosysteem van organisaties en technologie dat dit mogelijk maakt. Speerpunt is de inzet van ‘federated learning’ op privacygevoelige gegevens. Het LIFES netwerk omvat inmiddels enkele tientallen publieke en private organisaties binnen en buiten Nederland, waaronder LUMC, Naturalis, TNO, Roche en TU Twente. Je vind [hier](<a href="https://www.gofair.foundation/lifes" class="uri">https://www.gofair.foundation/lifes</a>) meer informatie over LIFES en een volledig overzicht van de leden.</p>
 <section id="go-fair-foundation" class="level3">
 <h3 class="anchored" data-anchor-id="go-fair-foundation">GO FAIR Foundation</h3>
-<p>De stichting GO FAIR richt zich op het ondersteunen van organisaties bij de implementatie van de FAIR Guiding Principles in research data management, maar ook in corporate en public data management. Dit doet GO FAIR door het ontwikkelen en onderhouden van best practices voor interpretatie en implementatie, het bieden van een <a href="https://www.gofair.foundation/fellow">fellows programma</a>, het geven van trainingen en het aanjagen van de ontwikkeling van een ecosysteem van implementatie ondersteunende technologie. De stichting GO FAIR is een service provider binnen het LIFES netwerk.</p>
+<p><img src="https://nl.gofair.foundation/docs/img/GFF_website_1000ppi.avif" class="img-fluid"></p>
+<p>De stichting GO FAIR richt zich op het ondersteunen van organisaties bij de implementatie van de FAIR Guiding Principles in research data management, maar ook in corporate en public data management. Dit doet GO FAIR door het ontwikkelen en onderhouden van best practices voor <a href="https://www.gofair.foundation/interpretation">interpretatie</a> en implementatie, het bieden van een <a href="https://www.gofair.foundation/fellow">fellows programma</a>, het geven van trainingen en het aanjagen van de ontwikkeling van een ecosysteem van implementatie ondersteunende technologie. De stichting GO FAIR is tevens een service provider met deze rol binnen het LIFES netwerk.</p>
 </section>
 <section id="kansen-voor-promovendi" class="level3">
 <h3 class="anchored" data-anchor-id="kansen-voor-promovendi">Kansen voor promovendi</h3>
@@ -164,7 +166,7 @@
 
  ]]></description>
   <guid>https://nl.gofair.foundation/docs/news/posts/2025-02-28-kansen-voor-promovendi/</guid>
-  <pubDate>Fri, 07 Mar 2025 10:30:31 GMT</pubDate>
+  <pubDate>Wed, 12 Mar 2025 13:34:58 GMT</pubDate>
 </item>
 <item>
   <title>Toolbox verantwoord data gebruik</title>
@@ -190,7 +192,7 @@
 
  ]]></description>
   <guid>https://nl.gofair.foundation/docs/news/posts/2025-02-28-toolbox-verantwoord-datagebruik/</guid>
-  <pubDate>Fri, 07 Mar 2025 10:30:31 GMT</pubDate>
+  <pubDate>Wed, 12 Mar 2025 13:34:58 GMT</pubDate>
 </item>
 </channel>
 </rss>
