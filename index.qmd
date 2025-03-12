@@ -2,7 +2,7 @@
 title: ""
 page-layout: full
 about:
-  template: trestles
+  template: marquee
   image: docs/img/GO FAIR_GOV_NL.png
   image-width: 20em
   links:
@@ -22,7 +22,7 @@ about:
 listing: 
   id: latest-posts
   contents: docs/news/posts 
-  type: default 
+  type: grid 
   sort: "date desc" 
   max-items: 4
   categories: false 
@@ -32,16 +32,13 @@ listing:
 
 Een Nederlands toepassingsprofiel van de interpretatie en implementatie van de FAIR Data Principles door en voor de Nederlandse overheid.
 
-De FAIR Data Principles en dit Nederlandse toepassingsprofiel van de interpretatie en implementatie ervan hebben als doel de herbruikbaarheid van data te vergroten. De FAIR Data Principles zijn erop gericht om data beter vindbaar, toegankelijk, interoperabel en herbruikbaar te maken voor mens en machine. FAIR data zijn niet per definitie ook data open data. Juist ook voor (privacy) gevoelige data (gesloten data) kan het heel zinvol zijn om te voldoen aan de principes voor FAIR data, om juist daarmee specifieke geautoriseerde toegang tot deze data mogelijk te kunnen maken. 
+De FAIR Data Principles en dit Nederlandse toepassingsprofiel van de interpretatie en implementatie ervan hebben als doel de herbruikbaarheid van data te vergroten. De FAIR Data Principles zijn erop gericht om data beter vindbaar, toegankelijk, interoperabel en herbruikbaar te maken voor mens en machine. FAIR data zijn niet per definitie ook data open data. Juist ook voor (privacy) gevoelige data (gesloten data) kan het heel zinvol zijn om te voldoen aan de principes voor FAIR data, om juist daarmee specifieke geautoriseerde toegang tot deze data mogelijk te kunnen maken.
 
 Deze wiki wordt onderhouden door de Stichting GO FAIR in Leiden, samen met een groeiende community binnen de Nederlandse overheid.
 
-
-
-
 ------------------------------------------------------------------------
 
-**Laatste nieuws | [Alle nieuwsberichten ](docs/news)**
+**Laatste nieuws \| [Alle nieuwsberichten](docs/news)**
 
 ::: {#latest-posts}
 :::
