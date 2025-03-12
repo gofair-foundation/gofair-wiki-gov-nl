@@ -1,29 +1,46 @@
 ---
 title: "Introductie"
-subtitle: "Introductie van de principes voor FAIR data"
+subtitle: "Introductie van de FAIR Guiding Principles"
+editor: 
+  markdown: 
+    wrap: 72
 ---
-
 
 ## FAIR Guiding Principles
 
-De FAIR Guiding Principles en een Nederlandse profiel van de interpretatie en implementatie ervan hebben als doel de herbruikbaarheid van data te vergroten. De FAIR Guiding Principles zijn erop gericht om data beter vindbaar, toegankelijk, interoperabel en herbruikbaar te maken voor mens en machine. FAIR data zijn niet per definitie ook open data. Juist ook voor (privacy) gevoelige data (gesloten data) kan het heel zinvol zijn om de FAIR Guiding Principles te implementeren, om juist daarmee specifieke geautoriseerde toegang tot deze data mogelijk te kunnen maken.
+De FAIR Guiding Principles en een Nederlandse toepassingsprofiel van de
+interpretatie en implementatie ervan hebben als doel de herbruikbaarheid
+van data te vergroten. De FAIR Guiding Principles zijn erop gericht om
+data beter vindbaar, toegankelijk, interoperabel en herbruikbaar te
+maken voor mens en machine. FAIR data zijn niet per definitie ook open
+data. Juist ook voor (privacy) gevoelige data (gesloten data) kan het
+heel zinvol zijn om de FAIR Guiding Principles te implementeren, om
+juist daarmee specifieke geautoriseerde toegang tot deze data mogelijk
+te kunnen maken.
 
 ### Achtergrond
 
-
+De oorsprong van de FAIR Guiding Principles ligt in het (internationale)
+domein van research data management [@wilkinson2016]. De COVID-19
+pandemie bracht snel een zeer grote aantal wetenschappelijke publicaties
+met onderliggende data voort, dit bracht de implementatie
+[@jacobsen2020] van de FAIR Guiding Principles in een stroomversnelling.
+Het succes van de FAIR Guiding Principles wekte ook buiten het domein
+van research data management belangstelling [@bfs_onderzoek_2021],
+[@pblq_duurzaam_2021].
 
 ### Common ground
 
-principes voor FAIR data
-geen specificatie
-evenmin een (open) standaard
-richting gevende uitspraken die zich internationaal hebben bewezen
-nu met good practices voor de interpretatie en implemenatie ervan ontleend aan de praktijk van de Nederlandse overheid
-expliciet maken van waarin vaak al impliciet wordt voorzien
-verbinden van veelheid en verscheidenheid van initiatieven, beleid, diensten en specificaties in relatie tot data
+principes voor FAIR data geen specificatie evenmin een (open) standaard
+richting gevende uitspraken die zich internationaal hebben bewezen nu
+met good practices voor de interpretatie en implemenatie ervan ontleend
+aan de praktijk van de Nederlandse overheid expliciet maken van waarin
+vaak al impliciet wordt voorzien verbinden van veelheid en
+verscheidenheid van initiatieven, beleid, diensten en specificaties in
+relatie tot data
 
-principes voor FAIR data als common ground voor de veelheid en verscheidenheid van initiatieven, beleid, diensten, specificaties en open standaarden in relatie tot data
+principes voor FAIR data als common ground voor de veelheid en
+verscheidenheid van initiatieven, beleid, diensten, specificaties en
+open standaarden in relatie tot data
 
-
-
-### Verbindende factor 
+### 

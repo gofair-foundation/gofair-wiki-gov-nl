@@ -64,10 +64,10 @@ website:
 execute:
   freeze: auto
   
-# bibliography: references.bib
-#
 
-    
+bibliography: references.bib
+
+
 format: 
   html:
     theme: cosmo

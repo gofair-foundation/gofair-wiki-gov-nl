@@ -3,7 +3,7 @@ title: "Over deze website"
 subtitle: "GO FAIR_GOV_NL"
 ---
 
-De Stichting GO FAIR ontwikkelt een Nederlands applicatieprofiel van de interpretatie en implementatie van de FAIR Guiding Principles door en voor de Nederlandse overheid. Dit doen we samen met een groeiende community binnen de Nederlandse overheid. Deze community en dit initiatief hebben voorlopig als werktitel GO FAIR_GOV_NL. We hanteren een open source aanpak op Github. In deze repository ontwikkelen wij de content voor dit Nederlands applicatieprofiel van de interpretatie en implementatie van de FAIR Guiding Principles. Dit aangevuld met een blog met relevante nieuwsberichten uit de community en achtergronden waaronder informatie over succesvolle use cases van de implementatie van de FAIR Guiding Principles binnen de Nederlandse overheid.
+De Stichting GO FAIR ontwikkelt een Nederlands toepassingsprofiel van de interpretatie en implementatie van de FAIR Guiding Principles door en voor de Nederlandse overheid. Dit doen we samen met een groeiende community binnen de Nederlandse overheid. Deze community en dit initiatief hebben voorlopig als werktitel GO FAIR_GOV_NL. We hanteren een open source aanpak op Github. In deze repository ontwikkelen wij de content voor dit Nederlands toepassingsprofiel van de interpretatie en implementatie van de FAIR Guiding Principles. Dit aangevuld met een blog met relevante nieuwsberichten uit de community en achtergronden waaronder informatie over succesvolle use cases van de implementatie van de FAIR Guiding Principles binnen de Nederlandse overheid.
 
 
 ## Hoe kun je bijdragen?

@@ -5,17 +5,22 @@ author:
   - name: Norbert van Dijk
     email: norbert.van.dijk@minbzk.nl
     affiliation: Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
+date: last-modified
 format: html
 editor: visual
 ---
 
 ## LIFES
 
-De vereniging Leiden Institute for FAIR and Equitable Science & Innovation (LIFES) is een publiek-private samenwerking, die zich richt op innovatief hergebruik van gegevens binnen en buiten wetenschappelijk onderzoek . Dit doet LIFES door het bijeenbrengen van daarvoor relevante expertise en het aanjagen van de ontwikkeling van een ecosysteem van organisaties en technologie dat dit mogelijk maakt. Speerpunt is de inzet van ‘federated learning’ op privacygevoelige gegevens. Het LIFES netwerk omvat inmiddels enkele tientallen publieke en private organisaties binnen en buiten Nederland, waaronder LUMC, Naturalis, TNO, Roche en TU Twente.
+![](/docs/img/LIFES.avif)
+
+De vereniging Leiden Institute for FAIR and Equitable Science & Innovation (LIFES) is een publiek-private samenwerking, die zich richt op innovatief, gelijkwaardig en veilig hergebruik van gegevens binnen en buiten wetenschappelijk onderzoek . Dit doet LIFES door het bijeenbrengen van daarvoor relevante expertise en het aanjagen van de ontwikkeling van een ecosysteem van organisaties en technologie dat dit mogelijk maakt. Speerpunt is de inzet van ‘federated learning’ op privacygevoelige gegevens. Het LIFES netwerk omvat inmiddels enkele tientallen publieke en private organisaties binnen en buiten Nederland, waaronder LUMC, Naturalis, TNO, Roche en TU Twente. Je vind \[hier\](<https://www.gofair.foundation/lifes>) meer informatie over LIFES en een volledig overzicht van de leden.
 
 ### GO FAIR Foundation
 
-De stichting GO FAIR richt zich op het ondersteunen van organisaties bij de implementatie van de FAIR Guiding Principles in research data management, maar ook in corporate en public data management. Dit doet GO FAIR door het ontwikkelen en onderhouden van best practices voor interpretatie en implementatie, het bieden van een [fellows programma](https://www.gofair.foundation/fellow), het geven van trainingen en het aanjagen van de ontwikkeling van een ecosysteem van implementatie ondersteunende technologie. De stichting GO FAIR is een service provider binnen het LIFES netwerk.
+![](/docs/img/GFF_website_1000ppi.avif)
+
+De stichting GO FAIR richt zich op het ondersteunen van organisaties bij de implementatie van de FAIR Guiding Principles in research data management, maar ook in corporate en public data management. Dit doet GO FAIR door het ontwikkelen en onderhouden van best practices voor [interpretatie](https://www.gofair.foundation/interpretation) en implementatie, het bieden van een [fellows programma](https://www.gofair.foundation/fellow), het geven van trainingen en het aanjagen van de ontwikkeling van een ecosysteem van implementatie ondersteunende technologie. De stichting GO FAIR is tevens een service provider met deze rol binnen het LIFES netwerk.
 
 ### Kansen voor promovendi
 
