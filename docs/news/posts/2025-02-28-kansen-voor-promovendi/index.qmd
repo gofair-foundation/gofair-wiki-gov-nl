@@ -14,7 +14,7 @@ editor: visual
 
 ![](/docs/img/LIFES.avif)
 
-De vereniging Leiden Institute for FAIR and Equitable Science & Innovation (LIFES) is een publiek-private samenwerking, die zich richt op innovatief, gelijkwaardig en veilig hergebruik van gegevens binnen en buiten wetenschappelijk onderzoek . Dit doet LIFES door het bijeenbrengen van daarvoor relevante expertise en het aanjagen van de ontwikkeling van een ecosysteem van organisaties en technologie dat dit mogelijk maakt. Speerpunt is de inzet van ‘federated learning’ op privacygevoelige gegevens. Het LIFES netwerk omvat inmiddels enkele tientallen publieke en private organisaties binnen en buiten Nederland, waaronder LUMC, Naturalis, TNO, Roche en TU Twente. Je vind \[hier\](<https://www.gofair.foundation/lifes>) meer informatie over LIFES en een volledig overzicht van de leden.
+De vereniging Leiden Institute for FAIR and Equitable Science & Innovation (LIFES) is een publiek-private samenwerking, die zich richt op innovatief, gelijkwaardig en veilig hergebruik van gegevens binnen en buiten wetenschappelijk onderzoek . Dit doet LIFES door het bijeenbrengen van daarvoor relevante expertise en het aanjagen van de ontwikkeling van een ecosysteem van organisaties en technologie dat dit mogelijk maakt. Speerpunt is de inzet van ‘federated learning’ op privacygevoelige gegevens. Het LIFES netwerk omvat inmiddels enkele tientallen publieke en private organisaties binnen en buiten Nederland, waaronder LUMC, Naturalis, TNO, Roche en TU Twente. Je vind [hier](<https://www.gofair.foundation/lifes>) meer informatie over LIFES en een volledig overzicht van de leden.
 
 ### GO FAIR Foundation
 
