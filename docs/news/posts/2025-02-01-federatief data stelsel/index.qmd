@@ -5,8 +5,8 @@ author:
   - name: Norbert van Dijk
     email: norbert.van.dijk@minbzk.nl
     affiliation: Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
-date: last-modified
-format: 02-01-2025
+date: 02-01-2025
+format: html 
 editor: visual
 ---
 
