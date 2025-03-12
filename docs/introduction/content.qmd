@@ -31,16 +31,14 @@ van research data management belangstelling [@bfs_onderzoek_2021],
 
 ### Common ground
 
-principes voor FAIR data geen specificatie evenmin een (open) standaard
-richting gevende uitspraken die zich internationaal hebben bewezen nu
+De FAIR Guiding Principles zijn niet een specificatie en evenmin een (open) standaard. Het zijn
+richting gevende uitspraken die zich internationaal hebben bewezen en die nu
 met good practices voor de interpretatie en implemenatie ervan ontleend
-aan de praktijk van de Nederlandse overheid expliciet maken van waarin
-vaak al impliciet wordt voorzien verbinden van veelheid en
+aan de praktijk van de Nederlandse overheid expliciet maken van hetgeen waarin
+vaak al impliciet wordt voorzien. De FAIR Guiding Principles kunnen de veelheid en
 verscheidenheid van initiatieven, beleid, diensten en specificaties in
-relatie tot data
-
-principes voor FAIR data als common ground voor de veelheid en
+relatie tot data gaan verbinden. De FAIR Guiding Principles kunnen gaan dienen als common ground voor de veelheid en
 verscheidenheid van initiatieven, beleid, diensten, specificaties en
-open standaarden in relatie tot data
+open standaarden in relatie tot data.
 
-### 
+
