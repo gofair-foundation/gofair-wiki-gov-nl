@@ -2,12 +2,14 @@
 title: "Onderzoeksrapport Federatieve Toegangsverlening"
 subtitle: ""
 author:
-  - name: 
-    email: 
-    affiliation: 
-date: 02-28-2025
+  - name: Rens Kievit
+    email: rens.kievit@rijksoverheid.nl  
+    affiliation: Ministerie van Binnelandse Zaken en Koninkrijksrelaties / Leids Universtair Medisch Centrum
+date: 03-26-2025
 format: html
 editor: visual
 ---
 
-## 
+## Looking at distributed access as a process
+
+Duaal promovendus Rens Kievit heeft in het najaar van 2024 bij het Nationaal Archief de eerste fase van zijn promotieonderzoek opgezet. In zijn onderzoek richt hij zich op het uitwerken van toegang tot beperkt openbare data in een FAIR architectuur. Het rapport is hier te lezen op Zenodo: https://doi.org/10.5281/zenodo.14800678.
