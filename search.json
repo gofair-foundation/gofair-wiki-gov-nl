@@ -36,6 +36,20 @@
     "text": "De Toolbox verantwoord data gebruik van het programma Realisatie Interbestuurlijke Data Strategie verwijst naar de FAIR Guiding Principles en naar het 3-Point FAIRification Framework van de GO FAIR Foundation. Ik vraag me af of dit framework binnen het domein van datamanagement van de Nederlandse overheid maar buiten het overlappende domein van research datamanagemement met de huidige invulling van het framework bruikbaar is. Wellicht is ook hier een wat andere interpretatie en implementatie nodig.\n\n\n\n3-Point FAIRification Framework (Bron: IBDS)"
   },
   {
+    "objectID": "docs/news/posts/2025-02-12-onderzoeksrapport-federatieve-toegangsverlening/index.html",
+    "href": "docs/news/posts/2025-02-12-onderzoeksrapport-federatieve-toegangsverlening/index.html",
+    "title": "Onderzoeksrapport Federatieve Toegangsverlening",
+    "section": "",
+    "text": "Duaal promovendus Rens Kievit heeft in het najaar van 2024 bij het Nationaal Archief de eerste fase van zijn promotieonderzoek opgezet. In zijn onderzoek richt hij zich op het uitwerken van toegang tot beperkt openbare data in een FAIR architectuur. Het rapport is hier te lezen op Zenodo: https://doi.org/10.5281/zenodo.14800678."
+  },
+  {
+    "objectID": "docs/news/posts/2025-02-12-onderzoeksrapport-federatieve-toegangsverlening/index.html#looking-at-distributed-access-as-a-process",
+    "href": "docs/news/posts/2025-02-12-onderzoeksrapport-federatieve-toegangsverlening/index.html#looking-at-distributed-access-as-a-process",
+    "title": "Onderzoeksrapport Federatieve Toegangsverlening",
+    "section": "",
+    "text": "Duaal promovendus Rens Kievit heeft in het najaar van 2024 bij het Nationaal Archief de eerste fase van zijn promotieonderzoek opgezet. In zijn onderzoek richt hij zich op het uitwerken van toegang tot beperkt openbare data in een FAIR architectuur. Het rapport is hier te lezen op Zenodo: https://doi.org/10.5281/zenodo.14800678."
+  },
+  {
     "objectID": "docs/terms/content.html",
     "href": "docs/terms/content.html",
     "title": "Begrippen",
@@ -104,7 +118,7 @@
     "href": "index.html",
     "title": "GO FAIR_GOV_NL Wiki",
     "section": "",
-    "text": "Wiki\nEen Nederlands toepassingsprofiel van de interpretatie en implementatie van de FAIR Data Principles door en voor de Nederlandse overheid.\nDe FAIR Data Principles en dit Nederlandse toepassingsprofiel van de interpretatie en implementatie ervan hebben als doel de herbruikbaarheid van data te vergroten. De FAIR Data Principles zijn erop gericht om data beter vindbaar, toegankelijk, interoperabel en herbruikbaar te maken voor mens en machine. FAIR data zijn niet per definitie ook data open data. Juist ook voor (privacy) gevoelige data (gesloten data) kan het heel zinvol zijn om te voldoen aan de principes voor FAIR data, om juist daarmee specifieke geautoriseerde toegang tot deze data mogelijk te kunnen maken.\nDeze wiki wordt onderhouden door de Stichting GO FAIR in Leiden, samen met een groeiende community binnen de Nederlandse overheid.\n\nLaatste nieuws | Alle nieuwsberichten\n\n\n\n\n\n\n\n\nKansen voor promovendi en studenten\n\n\n\n\n\n\nNorbert van Dijk\n\n\nMar 12, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nOnderzoeksrapport Federatieve Toegangsverlening\n\n\n\n\n\n\n\n\nFeb 28, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nToolbox verantwoord data gebruik\n\n\n\n\n\n\nNorbert van Dijk\n\n\nFeb 28, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nFederatief Data Stelsel\n\n\n\n\n\n\nNorbert van Dijk\n\n\nFeb 1, 2025\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\nDeze website wordt ontwikkeld met Quarto en wordt gehost op Github Pages."
+    "text": "Wiki\nEen Nederlands toepassingsprofiel van de interpretatie en implementatie van de FAIR Data Principles door en voor de Nederlandse overheid.\nDe FAIR Data Principles en dit Nederlandse toepassingsprofiel van de interpretatie en implementatie ervan hebben als doel de herbruikbaarheid van data te vergroten. De FAIR Data Principles zijn erop gericht om data beter vindbaar, toegankelijk, interoperabel en herbruikbaar te maken voor mens en machine. FAIR data zijn niet per definitie ook data open data. Juist ook voor (privacy) gevoelige data (gesloten data) kan het heel zinvol zijn om te voldoen aan de principes voor FAIR data, om juist daarmee specifieke geautoriseerde toegang tot deze data mogelijk te kunnen maken.\nDeze wiki wordt onderhouden door de Stichting GO FAIR in Leiden, samen met een groeiende community binnen de Nederlandse overheid.\n\nLaatste nieuws | Alle nieuwsberichten\n\n\n\n\n\n\n\n\nKansen voor promovendi en studenten\n\n\n\n\n\n\nNorbert van Dijk\n\n\nMar 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nOnderzoeksrapport Federatieve Toegangsverlening\n\n\n\n\n\n\nRens Kievit\n\n\nMar 26, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nToolbox verantwoord data gebruik\n\n\n\n\n\n\nNorbert van Dijk\n\n\nFeb 28, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nFederatief Data Stelsel\n\n\n\n\n\n\nNorbert van Dijk\n\n\nFeb 1, 2025\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\nDeze website wordt ontwikkeld met Quarto en wordt gehost op Github Pages."
   },
   {
     "objectID": "about.html",
@@ -125,7 +139,7 @@
     "href": "docs/usecases/index.html",
     "title": "Use cases",
     "section": "",
-    "text": "Klimaatadaptatie van de gebouwde omgeving\n\n\nEen project van I&W in samenwerking met Stichting Climate Adaptation Services, Stichting W/E adviseurs, Hogeschool Amsterdam, Stichting GO FAIR en Purple Polar Bear\n\n\n\n\n\n\n\n\nMar 12, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nSamenwerken in de ondergrond\n\n\nEen project van I&W in samenwerking met de Stichting GO FAIR en Purple Polar Bear\n\n\n\n\n\n\n\n\nMar 12, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nWooFAIR: Making Open Government Data FAIR\n\n\nEen project van de Universiteit van Amsterdam binnen het NWO onderzoeksprogramma Open Science Fund\n\n\n\n\n\n\n\n\nMar 12, 2025\n\n\n\n\n\n\nNo matching items",
+    "text": "Klimaatadaptatie van de gebouwde omgeving\n\n\nEen project van I&W in samenwerking met Stichting Climate Adaptation Services, Stichting W/E adviseurs, Hogeschool Amsterdam, Stichting GO FAIR en Purple Polar Bear\n\n\n\n\n\n\n\n\nMar 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nSamenwerken in de ondergrond\n\n\nEen project van I&W in samenwerking met de Stichting GO FAIR en Purple Polar Bear\n\n\n\n\n\n\n\n\nMar 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nWooFAIR: Making Open Government Data FAIR\n\n\nEen project van de Universiteit van Amsterdam binnen het NWO onderzoeksprogramma Open Science Fund\n\n\n\n\n\n\n\n\nMar 27, 2025\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Home",
       "Use cases"
@@ -136,7 +150,7 @@
     "href": "docs/news/index.html",
     "title": "Nieuws",
     "section": "",
-    "text": "Kansen voor promovendi en studenten\n\n\n\n\n\n\n\n\n\n\n\nMar 12, 2025\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\n\n\nOnderzoeksrapport Federatieve Toegangsverlening\n\n\n\n\n\n\n\n\n\n\n\nFeb 28, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nToolbox verantwoord data gebruik\n\n\nProgramma Realisatie Interbestuurlijke Data Strategie\n\n\n\n\n\n\n\n\nFeb 28, 2025\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\n\n\nFederatief Data Stelsel\n\n\nHet data ecosyteem van de Nederlandse overheid\n\n\n\n\n\n\n\n\nFeb 1, 2025\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\n\n\nWooFAIR\n\n\n\n\n\n\n\n\n\n\n\nFeb 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nFAIR Guiding Principles in Algoritmekader\n\n\nNederlandse vertaling van de FAIR Guiding Principles in het Algoritmekader, \n\n\n\n\n\n\n\n\nJan 8, 2025\n\n\nNorbert van Dijk\n\n\n\n\n\n\nNo matching items"
+    "text": "Kansen voor promovendi en studenten\n\n\n\n\n\n\n\n\n\n\n\nMar 27, 2025\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\n\n\nOnderzoeksrapport Federatieve Toegangsverlening\n\n\n\n\n\n\n\n\n\n\n\nMar 26, 2025\n\n\nRens Kievit\n\n\n\n\n\n\n\n\n\n\n\n\nToolbox verantwoord data gebruik\n\n\nProgramma Realisatie Interbestuurlijke Data Strategie\n\n\n\n\n\n\n\n\nFeb 28, 2025\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\n\n\nFederatief Data Stelsel\n\n\nHet data ecosyteem van de Nederlandse overheid\n\n\n\n\n\n\n\n\nFeb 1, 2025\n\n\nNorbert van Dijk\n\n\n\n\n\n\n\n\n\n\n\n\nWooFAIR\n\n\n\n\n\n\n\n\n\n\n\nFeb 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nFAIR Guiding Principles in Algoritmekader\n\n\nNederlandse vertaling van de FAIR Guiding Principles in het Algoritmekader, \n\n\n\n\n\n\n\n\nJan 8, 2025\n\n\nNorbert van Dijk\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "docs/news/posts/2025-02-01-federatief data stelsel/index.html",

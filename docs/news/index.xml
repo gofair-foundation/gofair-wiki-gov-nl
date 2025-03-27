@@ -17,7 +17,7 @@
 <width>144</width>
 </image>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Wed, 12 Mar 2025 14:54:11 GMT</lastBuildDate>
+<lastBuildDate>Thu, 27 Mar 2025 08:58:33 GMT</lastBuildDate>
 <item>
   <title>Kansen voor promovendi en studenten</title>
   <dc:creator>Norbert van Dijk</dc:creator>
@@ -54,25 +54,27 @@
 
  ]]></description>
   <guid>https://nl.gofair.foundation/docs/news/posts/2025-02-28-kansen-voor-promovendi/</guid>
-  <pubDate>Wed, 12 Mar 2025 14:54:11 GMT</pubDate>
+  <pubDate>Thu, 27 Mar 2025 08:58:33 GMT</pubDate>
 </item>
 <item>
   <title>Onderzoeksrapport Federatieve Toegangsverlening</title>
+  <dc:creator>Rens Kievit</dc:creator>
   <link>https://nl.gofair.foundation/docs/news/posts/2025-02-12-onderzoeksrapport-federatieve-toegangsverlening/</link>
   <description><![CDATA[ 
 
 
 
 
-<section id="section" class="level2">
-
+<section id="looking-at-distributed-access-as-a-process" class="level2">
+<h2 class="anchored" data-anchor-id="looking-at-distributed-access-as-a-process">Looking at distributed access as a process</h2>
+<p>Duaal promovendus Rens Kievit heeft in het najaar van 2024 bij het Nationaal Archief de eerste fase van zijn promotieonderzoek opgezet. In zijn onderzoek richt hij zich op het uitwerken van toegang tot beperkt openbare data in een FAIR architectuur. Het rapport is hier te lezen op Zenodo: https://doi.org/10.5281/zenodo.14800678.</p>
 
 
 </section>
 
  ]]></description>
   <guid>https://nl.gofair.foundation/docs/news/posts/2025-02-12-onderzoeksrapport-federatieve-toegangsverlening/</guid>
-  <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+  <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Toolbox verantwoord data gebruik</title>
